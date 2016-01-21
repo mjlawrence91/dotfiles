@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+v"], "command": "paste_and_indent" },
+	{ "keys": ["ctrl+shift+v"], "command": "paste_from_history" },
+	{ "keys": ["ctrl+k", "ctrl+v"], "command": "paste" }
+]
