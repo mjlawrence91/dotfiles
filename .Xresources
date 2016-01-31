@@ -1,0 +1,146 @@
+Xft.autohint: 0
+Xft.antialias: 1
+Xft.hinting: true
+Xft.hintstyle: hintslight
+Xft.dpi: 96
+Xft.rgba: rgb
+Xft.lcdfilter: lcddefault
+
+!rofi settings
+
+! Window opacity
+!rofi.opacity:                        90
+
+! Window width
+!rofi.width:                          75
+
+! Number of lines
+!rofi.lines:                          10
+
+! Number of columns
+!rofi.columns:                        1
+
+! Font to use
+!rofi.font:                           Roboto 10
+
+! Foreground color
+!rofi.fg:                             #AACCBB
+
+! Background color
+!rofi.bg:                             #3A526B
+
+! Foreground color for highlighted row
+!rofi.hlfg:                           #000000
+
+! Background color for highlighted row
+!rofi.hlbg:                           #557799
+
+! Border colour
+!rofi.bc: 							 #2d2d31
+
+! Border width
+!rofi.bw:                             1
+
+! Location on screen
+!rofi.location:                       0
+
+! Padding
+!rofi.padding:                        20
+
+! Y-offset relative to location
+!rofi.yoffset:                        0
+
+! X-offset relative to location
+!rofi.xoffset:                        0
+
+! Always show number of lines
+!rofi.fixed-num-lines:                false
+
+! Terminal to use
+!rofi.terminal:                       xfce4-terminal
+
+! --hold Run command to execute
+!rofi.run-command:                    {cmd}
+
+! Command to get extra run targets
+
+!rofi.run-list-command:
+
+! Run command to execute that runs in shell
+!rofi.run-shell-command:              {terminal} --exec="{cmd}" --hold
+
+! Disable history in run/ssh
+!rofi.disable-history:                false
+
+! Use levenshtein sorting
+!rofi.levenshtein-sort:               true
+
+! Set case-sensitivity
+!rofi.case-sensitive:                 false
+
+! Enable sidebar-mode
+!rofi.sidebar-mode:                   false
+
+! Set lazy filter limit
+!rofi.lazy-filter-limit:              5000
+
+! Row height (in chars)
+!rofi.eh:                             1
+
+! Enable auto select mode
+!rofi.auto-select:                    false
+
+! Parse hosts file for ssh mode
+!rofi.parse-hosts:                    false
+
+! Set the modi to combine in combi mode
+!rofi.combi-modi:                     window,run
+
+! Do a more fuzzy matching
+!rofi.fuzzy:                          true
+
+! Use glob matching
+!rofi.glob:                           false
+
+! Tokenize input string
+!rofi.tokenize:                       true
+
+! Margin between rows
+!rofi.line-margin:                    1
+
+
+! Separator style (none, dash, solid)
+!rofi.separator-style:                solid
+
+! Hide scroll-bar
+!rofi.hide-scrollbar:                 true
+
+! Show markup
+!rofi.markup-rows:                    false
+
+! Fullscreen
+!rofi.fullscreen:                     false
+
+! Fake transparency
+!rofi.fake-transparency:              true
+
+
+rofi.width: 60
+rofi.padding: 460
+rofi.opacity: 95
+rofi.bw: 0
+rofi.bc: #1C2230
+rofi.bg: #1C2230
+rofi.fg: #676e7d
+rofi.hlbg: #1C2230
+rofi.hlfg: #f3f4f5
+rofi.font: Roboto 10
+rofi.terminal: xfce4-terminal
+rofi.location: 0
+rofi.padding: 20
+rofi.yoffset: 0
+rofi.xoffset: 0
+rofi.separator-style: solid
+rofi.lines: 10
+rofi.columns: 1
+rofi.fixed-num-lines: true
