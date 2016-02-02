@@ -1,3 +1,6 @@
+# Load z.sh into PATH variable
+set -gx PATH $PATH /usr/lib
+
 # Path to Oh My Fish install.
 set -gx OMF_PATH /home/matt/.local/share/omf
 
@@ -6,6 +9,9 @@ set -gx OMF_PATH /home/matt/.local/share/omf
 
 # Load oh-my-fish configuration.
 source $OMF_PATH/init.fish
+
+# Load z into shell
+source $OMF_PATH/pkg/z/init.fish
 
 # WORKAROUND: Tried to print invalid wide character string
 set --global --export LANG en_GB.UTF-8

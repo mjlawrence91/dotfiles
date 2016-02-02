@@ -125,22 +125,21 @@ Xft.lcdfilter: lcddefault
 !rofi.fake-transparency:              true
 
 
-rofi.width: 60
-rofi.padding: 460
-rofi.opacity: 95
-rofi.bw: 0
-rofi.bc: #1C2230
-rofi.bg: #1C2230
-rofi.fg: #676e7d
-rofi.hlbg: #1C2230
-rofi.hlfg: #f3f4f5
-rofi.font: Roboto 10
-rofi.terminal: xfce4-terminal
-rofi.location: 0
-rofi.padding: 20
-rofi.yoffset: 0
-rofi.xoffset: 0
-rofi.separator-style: solid
-rofi.lines: 10
-rofi.columns: 1
-rofi.fixed-num-lines: true
+rofi.width: 			60
+rofi.opacity: 			85
+rofi.bw: 				0
+rofi.bc: 				#1c2230
+rofi.bg: 				#1c2230
+rofi.fg: 				#676e7d
+rofi.hlbg: 				#4a5160
+rofi.hlfg: 				#f3f4f5
+rofi.font: 				Roboto 10
+rofi.terminal: 			xfce4-terminal
+rofi.location: 			0
+rofi.padding: 			20
+rofi.yoffset: 			0
+rofi.xoffset: 			0
+rofi.separator-style: 	solid
+rofi.lines: 			10
+rofi.columns: 			1
+rofi.fixed-num-lines: 	true
