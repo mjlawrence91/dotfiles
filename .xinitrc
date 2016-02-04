@@ -63,7 +63,7 @@ fi
 #exec startxfce4
 #exec gnome-session
 
-compton -bcf --config "$HOME/.config/compton/compton.conf" &
+#compton -bcf --config "$HOME/.config/compton/compton.conf" &
 xrdb -load "$HOME/.Xresources"
 xset +fp "$HOME/.fonts"
 xset fp rehash
