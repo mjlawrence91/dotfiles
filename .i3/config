@@ -211,7 +211,7 @@ set $urgent-bg-colour 		#ff0000
 
 set $bar-bg-colour 			#c73b18
 set $bar-inactive-bg-colour #1c2230
-set $bar-separator			#c73b18
+set $bar-separator			#f3f4f5
 
 # Window colours (http://paletton.com)
 #							border 					background 				text
@@ -249,18 +249,12 @@ bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume 1 +5% 	#
 bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume 1 -5% 	# decrease sound volume
 bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 1 toggle 	 	# mute sound
 
-# Media player controls
-bindsym XF86Tools exec --no-startup-id cmus-remote -r
-bindsym XF86Launch5 exec --no-startup-id cmus-remote -u
-bindsym XF86Launch6 exec --no-startup-id cmus-remote -n
-
 # Bind locking of screen to F19 key
 set $locker i3lock -i /home/matt/Pictures/demons_run_when_____circular_gallifreyan__by_linglingbolt-d5ekel9.png
-bindsym XF86LaunchC exec --no-startup-id $locker lock, mode "default"
+# bindsym XF86LaunchC exec --no-startup-id $locker lock, mode "default"
 
 # Define power operations mode
-# set $mode_system System (l) lock, (e) logout, (s) suspend, (h) hibernate, (r) reboot, (Shift+s) shutdown
-set $mode_system System (l) lock, (e) logout, (r) reboot, (s) shutdown
+set $mode_system System: (l) lock, (e) logout, (r) reboot, (s) shutdown
 mode "$mode_system" {
     bindsym l exec --no-startup-id $locker lock, mode "default"
     bindsym e exec --no-startup-id i3-msg exit, mode "default"
@@ -272,8 +266,31 @@ mode "$mode_system" {
     bindsym Escape mode "default"
 }
 
-# Bind power operations to F16 key
-bindsym XF86Launch7 mode "$mode_system"
+# Bind power operations to F19 key
+bindsym XF86LaunchC mode "$mode_system"
+
+set $mode_music Music: (s) spotify, (c) cmus
+mode "$mode_music" {
+	bindsym s exec --no-startup-id spotify, mode "default"
+	bindsym c exec --no-startup-id urxvt -e cmus, mode "default"
+
+	# Media player controls
+	# bindsym F7 exec --no-startup-id cmus-remote -r
+	# bindsym F8 exec --no-startup-id cmus-remote -u
+	# bindsym F9 exec --no-startup-id cmus-remote -n
+
+	bindsym F7 exec --no-startup-id playerctl previous
+	bindsym F8 exec --no-startup-id playerctl play-pause
+	bindsym F9 exec --no-startup-id playerctl next
+
+    # back to normal: Enter, Escape or F16
+    bindsym Return mode "default"
+    bindsym Escape mode "default"
+    bindsym XF86Launch7 mode "default"
+}
+
+# Bind music operations to F16 key
+bindsym XF86Launch7 mode "$mode_music"
 
 # Enable autolocking
 exec --no-startup-id xautolock -time 20 -locker $locker lock, mode "default"
