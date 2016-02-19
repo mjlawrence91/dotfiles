@@ -539,8 +539,6 @@
 /mnt/Music/iTunes/iTunes Music/Darrell Scott & Karen Matheson/Transatlantic Sessions 3 Vol 2/You'll Never Leave Harlan Alive.mp3
 /mnt/Music/iTunes/iTunes Music/Darrell Scott & Paul Brady/Transatlantic Sessions 3 Vol 1/Shattered Cross.mp3
 /mnt/Music/Downloaded Music/Artists/Dave Matthews Band/Big Whiskey and the GrooGrux King/01. Grux.mp3
-/mnt/Music/Downloaded Music/Artists/Dave Matthews Band/Big Whiskey and the GrooGrux King/02. Shake Me Like A Monkey.mp3
-/mnt/Music/iTunes/iTunes Music/Dave Matthews Band/Big Whiskey And The GrooGrux King/02 Shake Me Like A Monkey 1.mp3
 /mnt/Music/iTunes/iTunes Music/Dave Matthews Band/Big Whiskey And The GrooGrux King/02 Shake Me Like A Monkey.mp3
 /mnt/Music/Downloaded Music/Artists/Dave Matthews Band/Big Whiskey and the GrooGrux King/03. Funny The Way It Is.mp3
 /mnt/Music/Downloaded Music/Artists/Dave Matthews Band/Big Whiskey and the GrooGrux King/04. Lying In The Hands Of God.mp3
@@ -551,7 +549,6 @@
 /mnt/Music/Downloaded Music/Artists/Dave Matthews Band/Big Whiskey and the GrooGrux King/09. Alligator Pie.mp3
 /mnt/Music/Downloaded Music/Artists/Dave Matthews Band/Big Whiskey and the GrooGrux King/10. Seven.mp3
 /mnt/Music/Downloaded Music/Artists/Dave Matthews Band/Big Whiskey and the GrooGrux King/11. Time Bomb.mp3
-/mnt/Music/iTunes/iTunes Music/Dave Matthews Band/Big Whiskey And The GrooGrux King/11 Time Bomb.mp3
 /mnt/Music/Downloaded Music/Artists/Dave Matthews Band/Big Whiskey and the GrooGrux King/12. Baby Blue.mp3
 /mnt/Music/Downloaded Music/Artists/Dave Matthews Band/Big Whiskey and the GrooGrux King/13. You & Me.mp3
 /mnt/Music/Downloaded Music/Artists/Dave Matthews Band/Big Whiskey and the GrooGrux King/14. Write A Song.mp3
@@ -676,21 +673,13 @@
 /mnt/Music/iTunes/iTunes Music/Emmylou Harris/Luxury Liner/You Never Can Tell.mp3
 /mnt/Music/iTunes/iTunes Music/Emmylou Harris/Wrecking Ball/06 Deeper Well.mp3
 /mnt/Music/Downloaded Music/Artists/Equation/First Name Terms/Wild Card.mp3
-/mnt/Music/iTunes/iTunes Music/Equation/First Name Terms/01 Wild Card.mp3
 /mnt/Music/Downloaded Music/Artists/Equation/First Name Terms/Cry Wolf.mp3
-/mnt/Music/iTunes/iTunes Music/Equation/First Name Terms/02 Cry Wolf.mp3
 /mnt/Music/Downloaded Music/Artists/Equation/First Name Terms/Clare.mp3
-/mnt/Music/iTunes/iTunes Music/Equation/First Name Terms/04 Clare.mp3
 /mnt/Music/Downloaded Music/Artists/Equation/First Name Terms/Speak Your Thoughts.mp3
-/mnt/Music/iTunes/iTunes Music/Equation/First Name Terms/05 Speak Your Thoughts.mp3
 /mnt/Music/Downloaded Music/Artists/Equation/First Name Terms/The End Of May.mp3
-/mnt/Music/iTunes/iTunes Music/Equation/First Name Terms/08 The End Of May.mp3
 /mnt/Music/Downloaded Music/Artists/Equation/First Name Terms/Drowning Man.mp3
-/mnt/Music/iTunes/iTunes Music/Equation/First Name Terms/09 Drowning Man.mp3
 /mnt/Music/Downloaded Music/Artists/Equation/First Name Terms/Jack And Suzanne.mp3
-/mnt/Music/iTunes/iTunes Music/Equation/First Name Terms/11 Jack And Suzanne.mp3
 /mnt/Music/Downloaded Music/Artists/Equation/First Name Terms/Lost All Feeling.mp3
-/mnt/Music/iTunes/iTunes Music/Equation/First Name Terms/12 Lost All Feeling.mp3
 /mnt/Music/iTunes/iTunes Music/Eric Andersen/Folk America at the BBC_ Greenwich Villa/Violets Of Dawn.mp3
 /mnt/Music/iTunes/iTunes Music/Eric Clapton/August/Behind The Mask.mp3
 /mnt/Music/iTunes/iTunes Music/Eric Clapton/Bob Dylan 30th Anniversary Concert/Don't Think Twice, It's All Right.mp3
@@ -795,9 +784,7 @@
 /mnt/Music/iTunes/iTunes Music/Fairport Convention/Liege & Lief/08 Crazy Man Michael.mp3
 /mnt/Music/iTunes/iTunes Music/Fairport Convention/History of Fairport Convention/17 The Hanging Song.mp3
 /mnt/Music/iTunes/iTunes Music/Compilations/I Love Comedy (Disc 2)/2-01 The Germans.m4a
-/mnt/Music/Downloaded Music/Artists/Fleet Foxes/Fleet Foxes/Fleet Foxes - White Winter Hymnal.mp3
 /mnt/Music/iTunes/iTunes Music/Fleet Foxes/Fleet Foxes/White Winter Hymnal.mp3
-/mnt/Music/Downloaded Music/Artists/Fleet Foxes/Sun Giant/Fleet Foxes - Mykonos.mp3
 /mnt/Music/iTunes/iTunes Music/Fleet Foxes/Sun Giant/Mykonos.mp3
 /mnt/Music/iTunes/iTunes Music/Fleetwood Mac/The Dance/Big Love.mp3
 /mnt/Music/iTunes/iTunes Music/Fleetwood Mac/The Dance/Bleed To Love Her.mp3
@@ -832,7 +819,6 @@
 /mnt/Music/iTunes/iTunes Music/Compilations/The Very Best Of Fleetwood Mac/13 Seven Wonders.m4a
 /mnt/Music/iTunes/iTunes Music/Compilations/In The Mood For The Blues (Disc 1)/05 Need Your Love So Bad.m4a
 /mnt/Music/iTunes/iTunes Music/Compilations/Capital Gold Legends (Disc 2)/2-09 I Want To Know What Love Is.m4a
-/mnt/Music/iTunes/iTunes Music/Podcasts/Frankie Boyle_ Mock The Week Musings/Mock the Week Musings, Part One.mp3
 /mnt/Music/iTunes/iTunes Music/Fred Morrison & Michael McGoldrick/Transatlantic Sessions 3 Vol 1/Farewell To Uist_The Lochaber Badger.mp3
 /mnt/Music/iTunes/iTunes Music/Free/Fire And Water/All Right Now.mp3
 /mnt/Music/iTunes/iTunes Music/Gary Brooker/Concert For George (Disc 2)/2-03 Old Brown Shoe.m4a
@@ -901,26 +887,6 @@
 /mnt/Music/iTunes/iTunes Music/Home Service/Alright Jack/01 Alright Jack.mp3
 /mnt/Music/iTunes/iTunes Music/Howlin' Wolf/Guitar Legends (Disc 1)/15 Killing Floor.m4a
 /mnt/Music/iTunes/iTunes Music/Compilations/In The Mood For The Blues (Disc 1)/10 Smokestack Lightnin'.m4a
-/mnt/Music/iTunes/iTunes Music/H.P. Lovecraft/Call of Cthulhu/04 Call of Cthulhu (pt. 4).mp3
-/mnt/Music/iTunes/iTunes Music/H.P. Lovecraft/The Dunwich Horror/The Dunwich Horror, Part II.mp3
-/mnt/Music/iTunes/iTunes Music/H.P. Lovecraft/The Dunwich Horror/The Dunwich Horror, Part III.mp3
-/mnt/Music/iTunes/iTunes Music/H.P. Lovecraft/The Dunwich Horror/The Dunwich Horror, Part IV.mp3
-/mnt/Music/iTunes/iTunes Music/H.P. Lovecraft/The Dunwich Horror/The Dunwich Horror, Part I.mp3
-/mnt/Music/iTunes/iTunes Music/H.P. Lovecraft/The Festival/The Festival.mp3
-/mnt/Music/iTunes/iTunes Music/H.P. Lovecraft/The Hound/H P Lovecraft - The Hound 1 of 2.mp3
-/mnt/Music/iTunes/iTunes Music/H.P. Lovecraft/The Hound/H P Lovecraft - The Hound 2 of 2.mp3
-/mnt/Music/iTunes/iTunes Music/H.P. Lovecraft/The Nameless City/The Nameless City.mp3
-/mnt/Music/iTunes/iTunes Music/H.P. Lovecraft/The Whisper In Darkness/01 The Whisperer In Darkness - 1 of.mp3
-/mnt/Music/iTunes/iTunes Music/H.P. Lovecraft/The Whisper In Darkness/02 The Whisperer In Darkness - 2 of.mp3
-/mnt/Music/iTunes/iTunes Music/H.P. Lovecraft/The Whisper In Darkness/03 The Whisperer in Darkness - 3 of.mp3
-/mnt/Music/iTunes/iTunes Music/H.P. Lovecraft/The Whisper In Darkness/04 The Whisperer In Darkness - 4 of.mp3
-/mnt/Music/iTunes/iTunes Music/H.P. Lovecraft/Call of Cthulhu/01 Call of Cthulhu (pt. 1).mp3
-/mnt/Music/iTunes/iTunes Music/H.P. Lovecraft/Call of Cthulhu/02 Call of Cthulhu (pt. 2).mp3
-/mnt/Music/iTunes/iTunes Music/H.P. Lovecraft/Call of Cthulhu/03 Call of Cthulhu (pt. 3).mp3
-/mnt/Music/iTunes/iTunes Music/H.P. Lovecraft/Dagon/Dagon.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/Weird Tales - The Strange Life of HP Lov/01 The Strange Life of HP Lovecraft.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/Weird Tales - The Strange Life of HP Lov/02 The Strange Life of HP Lovecraft.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/Weird Tales - The Strange Life of HP Lov/03 The Strange Life of HP Lovecraft.mp3
 /mnt/Music/iTunes/iTunes Music/Huey Lewis & the News/Back To The Future Soundtrack/06 The Power of Love.mp3
 /mnt/Music/iTunes/iTunes Music/Iain MacDonald/Transatlantic Sessions 2 Vol 2/16 Puirt-a-Beul.mp3
 /mnt/Music/iTunes/iTunes Music/Jackie Leven/Live At Rockpalast 2004/Classic Northern Diversions.mp3
@@ -1100,9 +1066,6 @@
 /mnt/Music/iTunes/iTunes Music/June Tabor/June Tabor BBC4 Session/Hughie Graeme.mp3
 /mnt/Music/iTunes/iTunes Music/June Tabor & Martin Simpson/June Tabor BBC4 Session/Strange Affair.mp3
 /mnt/Music/iTunes/iTunes Music/Karine Polwart/Fairest Floo'er/The Wife of Usher's Well.mp3
-/mnt/Music/iTunes/iTunes Music/Karl Marx & Friedrich Engels/The Communist Manifesto/01 Bourgeois and Proletarians.mp3
-/mnt/Music/iTunes/iTunes Music/Karl Marx & Friedrich Engels/The Communist Manifesto/02 Proletarians and Communists.mp3
-/mnt/Music/iTunes/iTunes Music/Karl Marx & Friedrich Engels/The Communist Manifesto/03 Socialist and Communist Literatur.mp3
 /mnt/Music/iTunes/iTunes Music/Kate Rusby/Awkward Annie/The Village Green Preservation Socie.mp3
 /mnt/Music/iTunes/iTunes Music/Kate Rusby/Christmas Voices/Serving Girl's Holiday.mp3
 /mnt/Music/Downloaded Music/Artists/King Crimson/King_Crimson_-_1969_-_In_the_Court_of_the_Crimson_King/King Crimson - 1969 - In the Court of the Crimson King/King Crimson - 1969 - In the Court of the Crimson King - 01 - 21st Century Schizoid Man.mp3
@@ -1273,26 +1236,6 @@
 /mnt/Music/iTunes/iTunes Music/Mark Knopfler & Emmylou Harris/Real Live Roadrunning/Speedway At Nazareth.mp3
 /mnt/Music/iTunes/iTunes Music/Mark Knopfler & Emmylou Harris/Real Live Roadrunning/This Is Us.mp3
 /mnt/Music/iTunes/iTunes Music/Mark Owen/In Your Own Time/Four Minute Warning.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/The Mark Steel Lectures/S01 - E01 - Oliver Cromwell.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/The Mark Steel Lectures/S01 - E02 - W.G. Grace.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/The Mark Steel Lectures/S01 - E03 - Charlie Chaplin.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/The Mark Steel Lectures/S01 - E04 - Thomas Paine.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/The Mark Steel Lectures/S02 - E01 - Lord Byron.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/The Mark Steel Lectures/S02 - E02 - Aristotle.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/The Mark Steel Lectures/S02 - E03 - Leonardo Da Vinci.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/The Mark Steel Lectures/S02 - E04 - Che Guevara.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/The Mark Steel Lectures/S02 - E05 - Billie Holiday.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/The Mark Steel Lectures/S02 - E06 - Karl Marx.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/The Mark Steel Lectures/S03 - E01 - Ludwig Van Beethoven.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/The Mark Steel Lectures/S03 - E02 - Hannibal.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/The Mark Steel Lectures/S03 - E03 - Isaac Newton.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/The Mark Steel Lectures/S03 - E03 - Mary Shelley.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/The Mark Steel Lectures/S03 - E05 - Muhammad Ali.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/The Mark Steel Lectures/S03 - E06 - Napoleon Bonaparte.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/The Mark Steel Revolution/03 The Russian Revolution.mp3
-/mnt/Music/iTunes/iTunes Music/Movies/Mark Steel - Russian Revolution Lect.mp4
-/mnt/Music/iTunes/iTunes Music/Movies/Mark Steel - Russian Revolution Lect 1.mp4
-/mnt/Music/iTunes/iTunes Music/Movies/Mark Steel - Russian Revolution Lect 2.mp4
 /mnt/Music/iTunes/iTunes Music/Martin Carthy/Martin Carthy/High Germany.mp3
 /mnt/Music/iTunes/iTunes Music/Martin Carthy/Martin Carthy & Friends BBC4 Session/Prince Heathen.mp3
 /mnt/Music/iTunes/iTunes Music/Martin Carthy/Crown Of Horn/01 The Bedmaking.mp3
@@ -1384,7 +1327,6 @@
 /mnt/Music/iTunes/iTunes Music/Neil Young/Harvest Moon/07 Such A Woman.mp3
 /mnt/Music/iTunes/iTunes Music/Neil Young/Harvest Moon/10 Natural Beauty.mp3
 /mnt/Music/iTunes/iTunes Music/Compilations/Greatest Hits/15 Rockin' In The Free World.m4a
-/mnt/Music/iTunes/iTunes Music/New Radicals/Maybe You've Been Brainwashed Too/You Get What You Give.mp3
 /mnt/Music/iTunes/iTunes Music/Newton Faulkner/Rebuilt By Humans/If This Is It.mp3
 /mnt/Music/iTunes/iTunes Music/Nic Jones/Penguin Eggs/01 Canadee-I-O.m4a
 /mnt/Music/iTunes/iTunes Music/Nic Jones/Penguin Eggs/04 The Little Pot Stove.m4a
@@ -2483,25 +2425,7 @@
 /mnt/Music/iTunes/iTunes Music/Compilations/The Best Of 1990-2000/2-04 Electrical Storm.m4a
 /mnt/Music/iTunes/iTunes Music/Under One Sky/Cambridge Folk Festival 2007/Long Time Past.mp3
 /mnt/Music/iTunes/iTunes Music/Van Morrison/Blowing Your Mind/01 Brown Eyed Girl.m4a
-/mnt/Music/iTunes/iTunes Music/iTunes U/Expert analysis - Audio/10 things I hate about you.mp3
-/mnt/Music/iTunes/iTunes Music/iTunes U/Expert analysis - Audio/Labour Pains.mp3
-/mnt/Music/iTunes/iTunes Music/iTunes U/Expert analysis - Audio/War on Climate Change_.mp3
-/mnt/Music/iTunes/iTunes Music/iTunes U/Expert analysis - Audio/Why politics matters.mp3
-/mnt/Music/iTunes/iTunes Music/iTunes U/Political dignitaries - Audio/Parliament_ hung drawn and quartered.mp3
-/mnt/Music/iTunes/iTunes Music/iTunes U/Political dignitaries - Audio/Rebuilding Parliament.mp3
-/mnt/Music/iTunes/iTunes Music/iTunes U/Political dignitaries - Audio/The Tory fight back_.mp3
-/mnt/Music/iTunes/iTunes Music/iTunes U/Political news - Audio/Election pre-match report.mp3
-/mnt/Music/iTunes/iTunes Music/iTunes U/Political news - Audio/Gordon Brown_ Moral Coward_.mp3
-/mnt/Music/iTunes/iTunes Music/iTunes U/Political news - Audio/Northern Ireland on the brink_.mp3
 /mnt/Music/iTunes/iTunes Music/iTunes U/Fiction and British Politics/1-01 Fiction and British Politics -.mp4
-/mnt/Music/iTunes/iTunes Music/iTunes U/Political dignitaries - Video/Does democracy work_.mp4
-/mnt/Music/iTunes/iTunes Music/iTunes U/Politics in 60 seconds - Video/Passive revolution.mp4
-/mnt/Music/iTunes/iTunes Music/iTunes U/Politics in 60 seconds - Video/War.mp4
-/mnt/Music/iTunes/iTunes Music/iTunes U/Politics in 60 seconds - Video/China's responsibility.mp4
-/mnt/Music/iTunes/iTunes Music/iTunes U/Politics in 60 seconds - Video/Corruption.mp4
-/mnt/Music/iTunes/iTunes Music/iTunes U/Politics in 60 seconds - Video/Social Democracy.mp4
-/mnt/Music/iTunes/iTunes Music/iTunes U/Politics in 60 seconds - Video/The Labour Party.mp4
-/mnt/Music/iTunes/iTunes Music/iTunes U/Politics in 60 seconds - Video/Ideology.mp4
 /mnt/Music/iTunes/iTunes Music/Various Artists/BBC4 Christmas Session - Fire And Ice/Coventry Carol.mp3
 /mnt/Music/iTunes/iTunes Music/Various Artists/BBC4 Christmas Session - Fire And Ice/Jingle Bells_We Wish You A Merry Chr.mp3
 /mnt/Music/iTunes/iTunes Music/Various Artists/BBC4 Christmas Session - Fire And Ice/Mistletoe Bough.mp3
@@ -2534,9 +2458,6 @@
 /mnt/Music/iTunes/iTunes Music/Various Artists/Transatlantic Sessions 4/Work Song.mp3
 /mnt/Music/iTunes/iTunes Music/Various Artists/Transatlantic Sessions 4/Worry Not.mp3
 /mnt/Music/iTunes/iTunes Music/Compilations/Enjoy Every Sandwich/02 Werewolves Of London.mp3
-/mnt/Music/iTunes/iTunes Music/Victor Borge/Victor Borge_ Live/03 A Mozart Opera.mp3
-/mnt/Music/iTunes/iTunes Music/Victor Borge/LP-Caught In The Act/07 Phonetic Punctuation.mp3
-/mnt/Music/iTunes/iTunes Music/Victor Borge/Phonetically Speaking - And Don't Forget/05 Inflationary Language.mp3
 /mnt/Music/iTunes/iTunes Music/Warren Zevon/David Letterman Show 30_10_02/Roland The Headless Thompson Gunner.mp3
 /mnt/Music/iTunes/iTunes Music/Warren Zevon/Excitable Boy/Lawyers, Guns and Money.mp3
 /mnt/Music/iTunes/iTunes Music/Compilations/The Wind/03 Knockin' On Heaven's Door.m4a

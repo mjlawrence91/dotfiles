@@ -1,3 +1,9 @@
+# Path to fisherman install
+set fisher_home ~/.local/share/fisherman
+set fisher_config ~/.config/fisherman
+source $fisher_home/config.fish
+set fisher_home ~/fisherman
+
 # Path to Oh My Fish install.
 set -gx OMF_PATH /home/matt/.local/share/omf
 
@@ -11,6 +17,9 @@ source $OMF_PATH/init.fish
 source $HOME/.config/z-fish/z.fish
 source $HOME/.config/fish/functions/z.fish
 source $HOME/.config/fish/completions/z.fish
+
+set fish_function_path $fish_function_path "/usr/lib/python3.5/site-packages/powerline/bindings/fish"
+powerline-setup
 
 # WORKAROUND: Tried to print invalid wide character string
 set --global --export LANG en_GB.UTF-8

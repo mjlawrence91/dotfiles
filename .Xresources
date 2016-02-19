@@ -28,12 +28,20 @@ rofi.columns:         1
 rofi.fixed-num-lines: true
 
 ! urxvt settings
-URxvt.font: 	 			  xft:Hack:size=12:antialias:false
-URxvt.letterSpace: 			  -1
-URxvt.scrollBar: 			  false
+!URxvt.perl-ext-common: default,clipboard,url-select,keyboard-select
+URxvt.perl-ext-common: default,clipboard
+URxvt.font:			   xft:Hack:size=10
+URxvt.scrollBar: 	   false
+URxvt.letterSpace: 	   -1
+
+! urxvt: url underline and follow
+!URxvt.url-select.launcher:  google-chrome-stable
+!URxvt.url-select.underline: true
+!URxvt.keysym.M-u:           perl:url-select:select_next
+!URxvt.keysym.M-Escape:      perl:keyboard-select:activate
+!URxvt.keysym.M-s:           perl:keyboard-select:search
 
 ! urxvt: enable copy and paste
-URxvt.perl-ext-common: 		  default,clipboard
 URxvt.iso14755: 			  False
 URxvt.keysym.Shift-Control-C: perl:clipboard:copy
 URxvt.keysym.Shift-Control-V: perl:clipboard:paste
@@ -43,7 +51,7 @@ URxvt.clipboard.pastecmd: 	  xsel -ob
 ! urxvt: colour schemes
 URxvt.depth: 32
 
-#include "/home/matt/Seti.xrdb"
+#include "/home/matt/.config/urxvt/Seti.xrdb"
 
 URxvt*color0:       Ansi_0_Color
 URxvt*color1:       Ansi_1_Color

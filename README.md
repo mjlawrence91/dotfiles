@@ -2,6 +2,10 @@
 
 Contains dotfiles for the following applications:
 
+- .Xresources
+- .xinitrc
+- .xsession
+
 - cmus
 - compton
 - fish

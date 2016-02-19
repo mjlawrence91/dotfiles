@@ -13,7 +13,7 @@ set $mod Mod4
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
 # font pango:monospace 8
-font pango:Roboto 10
+font pango:Roboto 9
 
 # Before i3 v4.8, we used to recommend this one as the default:
 # font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1
@@ -105,29 +105,41 @@ bindsym $mod+space focus mode_toggle
 # 4. fa-video-camera icon
 # 5. fa-folder-open-o icon
 # 6. fa-dot-circle-o icon
-set $wschrome "1:"
-set $wsatom "2:"
-set $wssublime "3:"
-set $wspron "4:"
-set $wsranger "5:"
-set $wsburn "6:"
+# 7. fa-music icon
+set $wschrome 	"1:"
+set $wsatom 	"2:"
+set $wssublime 	"3:"
+set $wspron 	"4:"
+set $wsranger 	"5:"
+set $wsburn 	"6:"
+set $wsmusic 	"7:♪"
 
 # Declare wallpaper commands
-set $feh exec --no-startup-id feh --bg-fill
+set $feh 	 exec --no-startup-id feh --bg-fill
 set $fehrand exec --no-startup-id ~/.i3/randwp.sh
-set $stdwp ~/Pictures/Cortex-Wallpaper.png
+set $stdwp 	 ~/Pictures/Cortex-Wallpaper.png
 
 # Switch to workspace (keyboard)
-bindsym $mod+1 workspace $wschrome ; $feh $stdwp
-bindsym $mod+2 workspace $wsatom ; $feh $stdwp
-bindsym $mod+3 workspace $wssublime ; $feh $stdwp
-bindsym $mod+4 workspace $wspron ; $fehrand
-bindsym $mod+5 workspace $wsranger ; $feh $stdwp
-bindsym $mod+6 workspace $wsburn ; $feh $stdwp
-bindsym $mod+7 workspace "7:" ; $feh $stdwp
-bindsym $mod+8 workspace "8:" ; $feh $stdwp
-bindsym $mod+9 workspace "9:" ; $feh $stdwp
-bindsym $mod+0 workspace "10:" ; $feh $stdwp
+bindsym $mod+1 workspace $wschrome
+bindsym $mod+2 workspace $wsatom
+bindsym $mod+3 workspace $wssublime
+bindsym $mod+4 workspace $wspron
+bindsym $mod+5 workspace $wsranger
+bindsym $mod+6 workspace $wsburn
+bindsym $mod+7 workspace $wsmusic
+bindsym $mod+8 workspace "8:"
+bindsym $mod+9 workspace "9:"
+bindsym $mod+0 workspace "10:"
+bindsym $mod+KP_1 workspace $wschrome
+bindsym $mod+KP_2 workspace $wsatom
+bindsym $mod+KP_3 workspace $wssublime
+bindsym $mod+KP_4 workspace $wspron
+bindsym $mod+KP_5 workspace $wsranger
+bindsym $mod+KP_6 workspace $wsburn
+bindsym $mod+KP_7 workspace $wsmusic
+bindsym $mod+KP_8 workspace "8:"
+bindsym $mod+KP_9 workspace "9:"
+bindsym $mod+KP_0 workspace "10:"
 
 # Move focused container to workspace
 bindsym $mod+Shift+1 move container to workspace $wschrome
@@ -136,16 +148,27 @@ bindsym $mod+Shift+3 move container to workspace $wssublime
 bindsym $mod+Shift+4 move container to workspace $wspron
 bindsym $mod+Shift+5 move container to workspace $wsranger
 bindsym $mod+Shift+6 move container to workspace $wsburn
-bindsym $mod+Shift+7 move container to workspace "7:"
+bindsym $mod+Shift+7 move container to workspace $wsmusic
 bindsym $mod+Shift+8 move container to workspace "8:"
 bindsym $mod+Shift+9 move container to workspace "9:"
 bindsym $mod+Shift+0 move container to workspace "10:"
+bindsym $mod+Shift+KP_1 move container to workspace $wschrome
+bindsym $mod+Shift+KP_2 move container to workspace $wsatom
+bindsym $mod+Shift+KP_3 move container to workspace $wssublime
+bindsym $mod+Shift+KP_4 move container to workspace $wspron
+bindsym $mod+Shift+KP_5 move container to workspace $wsranger
+bindsym $mod+Shift+KP_6 move container to workspace $wsburn
+bindsym $mod+Shift+KP_7 move container to workspace $wsmusic
+bindsym $mod+Shift+KP_8 move container to workspace "8:"
+bindsym $mod+Shift+KP_9 move container to workspace "9:"
+bindsym $mod+Shift+KP_0 move container to workspace "10:"
 
 # Only open these applications on these specific workspaces
 assign [class="google-chrome"] $wschrome
-assign [class="Atom"] $wsatom
-assign [class="Subl3"] $wssublime
-assign [class="chromium"] $wspron
+assign [class="Atom"] 		   $wsatom
+assign [class="Subl3"] 		   $wssublime
+assign [class="Spotify"] 	   $wsmusic
+assign [class="chromium"] 	   $wspron
 
 # Switch back and forth using same workspace shortcut
 workspace_auto_back_and_forth yes
@@ -251,19 +274,20 @@ bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 1 toggle 	 	# mut
 
 # Bind locking of screen to F19 key
 set $locker i3lock -i /home/matt/Pictures/demons_run_when_____circular_gallifreyan__by_linglingbolt-d5ekel9.png
-# bindsym XF86LaunchC exec --no-startup-id $locker lock, mode "default"
 
-# Define power operations mode
-set $mode_system System: (l) lock, (e) logout, (r) reboot, (s) shutdown
+# Define system operations mode
+set $mode_system System: (u) update, (l) lock, (e) logout, (r) reboot, (s) shutdown
 mode "$mode_system" {
+    bindsym u exec --no-startup-id urxvt -e yaourt -Syua, mode "default"
     bindsym l exec --no-startup-id $locker lock, mode "default"
     bindsym e exec --no-startup-id i3-msg exit, mode "default"
     bindsym r exec --no-startup-id systemctl reboot, mode "default"
     bindsym s exec --no-startup-id systemctl poweroff -i, mode "default"
 
-    # back to normal: Enter or Escape
+    # back to normal: Enter, Escape or F19
     bindsym Return mode "default"
     bindsym Escape mode "default"
+    bindsym XF86LaunchC mode "default"
 }
 
 # Bind power operations to F19 key
@@ -289,11 +313,25 @@ mode "$mode_music" {
     bindsym XF86Launch7 mode "default"
 }
 
-# Bind music operations to F16 key
+# Bind music operations to F18 key
 bindsym XF86Launch7 mode "$mode_music"
 
+set $mode_wallpaper Wallpaper: (c) Change, (r) reset
+mode "$mode_wallpaper" {
+	bindsym c $fehrand, mode "default"
+	bindsym r $feh $stdwp, mode "default"
+
+	# back to normal: Enter, Escape or F18
+	bindsym Return mode "default"
+	bindsym Escape mode "default"
+	bindsym XF86Launch9 mode "default"
+}
+
+# Bind wallpaper setting to F18 key
+bindsym XF86Launch9 mode "$mode_wallpaper"
+
 # Enable autolocking
-exec --no-startup-id xautolock -time 20 -locker $locker lock, mode "default"
+exec --no-startup-id xautolock -time 20 -locker $locker, mode "default"
 
 # Start daemons
 exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
