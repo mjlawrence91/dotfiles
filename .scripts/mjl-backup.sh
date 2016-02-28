@@ -4,7 +4,7 @@ SRCDIR="/home/matt/"
 BASEDESTDIR="/mnt/Backup"
 EXCLUDELIST="/home/matt/mjl-backup-exclusions"
 NEWDIRNAME="$(date +"%Y-%m-%d")/"
-DIRCOUNT="$(find /mnt/Backup -mindepth 1 -maxdepth 1 -type d | wc -l)"
+DIRCOUNT="$(find $BASEDESTDIR -mindepth 1 -maxdepth 1 -type d | wc -l)"
 DIRLIMIT=3
 
 if [[ $DIRCOUNT -ge $DIRLIMIT ]]
