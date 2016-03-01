@@ -35,13 +35,13 @@ Dropbox/
 .xsel.log
 
 # Files
-.bash-history
-.bash-logout
-.bash-profile
+.bash_history
+.bash_logout
+.bash_profile
 .bashrc
 .config/fish/fish_history
 .dmrc
-.esd-auth
+.esd_auth
 .fehbg
 .Xauthority
 .xsel-log
