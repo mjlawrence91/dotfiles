@@ -39,6 +39,7 @@ Dropbox/
 .bash_logout
 .bash_profile
 .bashrc
+.config/fish/fishd.matt-archs
 .config/fish/fish_history
 .dmrc
 .esd_auth
