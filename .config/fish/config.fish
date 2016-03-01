@@ -7,9 +7,12 @@ set -gx OMF_PATH "/home/matt/.local/share/omf"
 # Load oh-my-fish configuration.
 source $OMF_PATH/init.fish
 
+# Load pass completions into shell
+source /usr/share/fish/vendor_completions.d
+
 # Load powerline
 set fish_function_path $fish_function_path "/usr/lib/python3.5/site-packages/powerline/bindings/fish"
-powerline-setup
+#powerline-setup
 
 # Load z into shell
 source $HOME/.config/z-fish/z.fish
