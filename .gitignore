@@ -14,9 +14,6 @@ Dropbox/
 .password-store/
 .pki/
 
-.bash_history
-.bash_logout
-.bash_profile
 .config/Atom/
 .config/Trolltech.conf
 .config/autostart/
@@ -34,22 +31,15 @@ Dropbox/
 .config/sublime-text-3/Packages/
 !.config/sublime-text-3/Packages/User
 .config/transmission-daemon/
-!.config/transmission/dht.dat
 .config/vlc/
-.esd_auth
-.gitconfig
-.wallpapers/
-!.xinitrc.bak
 .xsel.log
-Dropbox/
-
-
 
 # Files
 .bash-history
 .bash-logout
 .bash-profile
 .bashrc
+.config/fish/fish_history
 .dmrc
 .esd-auth
 .fehbg
