@@ -13,7 +13,7 @@ set $mod Mod4
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
 # font pango:monospace 8
-font pango:Roboto 9
+font pango:Roboto 10
 
 # Before i3 v4.8, we used to recommend this one as the default:
 # font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1
@@ -107,19 +107,21 @@ bindsym $mod+space focus mode_toggle
 # 5. fa-folder-open-o icon
 # 6. fa-dot-circle-o icon
 # 7. fa-music icon
+# Other. fa-terminal icon
 set $wschrome 	"1:"
 set $wsatom 	"2:"
 set $wssublime 	"3:"
 set $wspron 	"4:"
 set $wsranger 	"5:"
 set $wsburn 	"6:"
-set $wsmusic 	"7:♪"
+set $wsmusic 	"7:"
 set $wsother 	""
 
 # Declare wallpaper commands
 set $feh 	 exec --no-startup-id feh --bg-fill
 set $fehrand exec --no-startup-id ~/.i3/randwp.sh
-set $stdwp 	 ~/Pictures/Cortex-Wallpaper-Logo.png
+set $stdwp 	 ~/.wallpapers/Cortex-Wallpaper-Logo.png
+set $altwp 	 ~/.wallpapers/Cortex-Wallpaper.png
 
 # Switch to workspace (keyboard)
 bindsym $mod+1 workspace $wschrome
@@ -255,7 +257,7 @@ bar {
 	height 24
 	tray_output primary
 
-	font pango:FontAwesome, Roboto 10
+	font pango:FontAwesome, Roboto 9
 
 	colors {
 		background $bar-inactive-bg-colour
@@ -277,15 +279,13 @@ bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume 1 -5% 	#
 bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 1 toggle 	 	# mute sound
 
 # Bind locking of screen to F19 key
-set $locker i3lock -i /home/matt/Pictures/demons_run_when_____circular_gallifreyan__by_linglingbolt-d5ekel9.png
+set $locker i3lock -i ~/.wallpapers/lock-screen.png
 
 # Define system operations mode
 set $mode_system System: (u) update, (l) lock, (e) logout, (r) reboot, (s) shutdown
-# set $mode_system <span>        </span><span background='#fabd2f' foreground='#000000'> power </span> <span foreground='#ebdbb2'>l</span>ock <span foreground='#ebdbb2'>e</span>xit <span foreground='#ebdbb2'>s</span>uspend <span foreground='#ebdbb2'>r</span>eboot <span foreground='#ebdbb2'>p</span>oweroff
-# mode --pango_markup "$mode_system" {
 mode "$mode_system" {
     bindsym u exec --no-startup-id urxvt -e yaourt -Syua, mode "default"
-    bindsym l exec --no-startup-id $locker lock, mode "default"
+    bindsym l exec --no-startup-id $locker, mode "default"
     bindsym e exec --no-startup-id i3-msg exit, mode "default"
     bindsym r exec --no-startup-id systemctl reboot, mode "default"
     bindsym s exec --no-startup-id systemctl poweroff -i, mode "default"
@@ -304,13 +304,13 @@ mode "$mode_music" {
 	bindsym c exec --no-startup-id urxvt -e cmus, mode "default"
 
 	# Media player controls
-	# bindsym F7 exec --no-startup-id cmus-remote -r
-	# bindsym F8 exec --no-startup-id cmus-remote -u
-	# bindsym F9 exec --no-startup-id cmus-remote -n
+	bindsym F7 exec --no-startup-id cmus-remote -r
+	bindsym F8 exec --no-startup-id cmus-remote -u
+	bindsym F9 exec --no-startup-id cmus-remote -n
 
-	bindsym F7 exec --no-startup-id playerctl previous
-	bindsym F8 exec --no-startup-id playerctl play-pause
-	bindsym F9 exec --no-startup-id playerctl next
+	# bindsym F7 exec --no-startup-id playerctl previous
+	# bindsym F8 exec --no-startup-id playerctl play-pause
+	# bindsym F9 exec --no-startup-id playerctl next
 
     # back to normal: Enter, Escape or F16
     bindsym Return mode "default"
@@ -321,10 +321,11 @@ mode "$mode_music" {
 # Bind music operations to F18 key
 bindsym XF86Launch7 mode "$mode_music"
 
-set $mode_wallpaper Wallpaper: (c) Change, (r) reset
+set $mode_wallpaper Wallpaper: (c) Change, (l) Logo wallpaper, (n) No-logo wallpaper
 mode "$mode_wallpaper" {
 	bindsym c $fehrand, mode "default"
-	bindsym r $feh $stdwp, mode "default"
+	bindsym l $feh $stdwp, mode "default"
+	bindsym n $feh $altwp, mode "default"
 
 	# back to normal: Enter, Escape or F18
 	bindsym Return mode "default"
@@ -340,7 +341,7 @@ exec --no-startup-id xautolock -time 20 -locker $locker, mode "default"
 
 # Start daemons
 exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
-exec --no-startup-id /usr/lib/deja-dup/deja-dup/deja-dup-monitor
+# exec --no-startup-id /usr/lib/deja-dup/deja-dup/deja-dup-monitor
 exec --no-startup-id compton -bcf --config ~/.config/compton/compton.conf
 exec --no-startup-id feh --bg-fill $stdwp
 exec --no-startup-id transmission-gtk -m

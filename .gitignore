@@ -1,0 +1,29 @@
+# Directories
+Desktop/
+Downloads/
+Dropbox/
+.atom/
+.cache/
+.dropbox/
+.dropbox-dist/
+.gnome/
+.gnupg/
+.local/
+.node-gyp/
+.nv/
+.password-store/
+.pki/
+
+# Files
+.bash-history
+.bash-logout
+.bash-profile
+.bashrc
+.dmrc
+.esd-auth
+.fehbg
+.Xauthority
+.xsel-log
+.xsession-errors
+.xsession-errors.old
+.z

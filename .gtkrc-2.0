@@ -2,7 +2,7 @@
 # Any customization should be done in ~/.gtkrc-2.0.mine instead.
 
 include "/home/matt/.gtkrc-2.0.mine"
-gtk-theme-name="Arc-Darker"
+gtk-theme-name="Flat-Plat"
 gtk-icon-theme-name="Numix-Circle"
 gtk-font-name="Roboto 10"
 gtk-cursor-theme-name="Paper"
@@ -15,5 +15,5 @@ gtk-enable-event-sounds=1
 gtk-enable-input-feedback-sounds=1
 gtk-xft-antialias=1
 gtk-xft-hinting=1
-gtk-xft-hintstyle="hintfull"
+gtk-xft-hintstyle="hintslight"
 gtk-xft-rgba="rgb"
