@@ -44,5 +44,3 @@ function fish_greeting
   uptime
   set_color normal
 end
-
-set -U fish_user_paths $HOME/util $fish_user_paths
