@@ -14,6 +14,37 @@ Dropbox/
 .password-store/
 .pki/
 
+.bash_history
+.bash_logout
+.bash_profile
+.config/Atom/
+.config/Trolltech.conf
+.config/autostart/
+.config/chromium/
+.config/dconf/
+.config/google-chrome/
+!.config/gtk-2.0/gtkrc-2.0
+.config/menus/
+.config/pulse/
+.config/ranger/tagged
+.config/spotify/
+.config/sublime-text-3/Cache/
+.config/sublime-text-3/Installed Packages/
+.config/sublime-text-3/Local/
+.config/sublime-text-3/Packages/
+!.config/sublime-text-3/Packages/User
+.config/transmission-daemon/
+!.config/transmission/dht.dat
+.config/vlc/
+.esd_auth
+.gitconfig
+.wallpapers/
+!.xinitrc.bak
+.xsel.log
+Dropbox/
+
+
+
 # Files
 .bash-history
 .bash-logout
