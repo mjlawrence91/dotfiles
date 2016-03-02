@@ -54,7 +54,8 @@ URxvt.clipboard.pastecmd: 	  xsel -ob
 ! urxvt: colour schemes
 URxvt.depth: 32
 
-#include "/home/matt/.config/urxvt/Seti.xrdb"
+!#include "/home/matt/.config/urxvt/Seti.xrdb"
+#include "/home/matt/.config/urxvt/MaterialDark.xrdb"
 
 URxvt*color0:       Ansi_0_Color
 URxvt*color1:       Ansi_1_Color
