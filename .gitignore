@@ -22,6 +22,7 @@ Dropbox/
 .config/dconf/
 .config/google-chrome/
 !.config/gtk-2.0/gtkrc-2.0
+.config/gtk-2.0/gtkfilechooser.ini
 .config/menus/
 .config/pulse/
 .config/ranger/tagged
@@ -30,6 +31,7 @@ Dropbox/
 .config/sublime-text-3/Installed Packages/
 .config/sublime-text-3/Local/
 .config/sublime-text-3/Packages/
+.config/sublime-text-3/Index
 !.config/sublime-text-3/Packages/User
 .config/transmission-daemon/
 .config/vlc/
@@ -50,3 +52,5 @@ Dropbox/
 .xsession-errors
 .xsession-errors.old
 .z
+dotfiles.sublime-project
+dotfiles.sublime-workspace
