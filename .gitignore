@@ -10,6 +10,7 @@ Dropbox/
 .gnupg/
 .local/
 .node-gyp/
+.npm/
 .nv/
 .password-store/
 .pki/
@@ -39,7 +40,7 @@ Dropbox/
 .bash_logout
 .bash_profile
 .bashrc
-.config/fish/fishd.matt-archs
+.config/fish/fishd.matt-arch
 .config/fish/fish_history
 .dmrc
 .esd_auth
