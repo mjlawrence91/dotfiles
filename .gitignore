@@ -19,12 +19,16 @@ Dropbox/
 .config/Trolltech.conf
 .config/autostart/
 .config/chromium/
+.config/cmus/autosave
+.config/cmus/cache
+.config/cmus/search_history
 .config/dconf/
 .config/google-chrome/
 !.config/gtk-2.0/gtkrc-2.0
 .config/gtk-2.0/gtkfilechooser.ini
 .config/menus/
 .config/pulse/
+.config/ranger/bookmarks
 .config/ranger/tagged
 .config/spotify/
 .config/sublime-text-3/Cache/
