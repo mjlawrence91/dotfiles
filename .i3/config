@@ -29,8 +29,8 @@ floating_modifier $mod
 bindsym $mod+Return exec urxvt
 
 # Start a new file manager window
-# bindsym $mod+n exec nautilus
 # bindsym $mod+n exec urxvt -e ranger
+bindsym $mod+n exec nautilus
 bindsym $mod+Shift+Return exec urxvt -e ranger
 
 # kill focused window
@@ -48,6 +48,7 @@ bindsym $mod+Shift+q kill
 # Removed dmenu in favour of rofi
 # bindsym $mod+d exec rofi -show run -lines 3 -eh 2 -width 100 -padding 460 -opacity "90" -bw 0 -bc "$bar-inactive-bg-colour" -bg "$bar-inactive-bg-colour" -fg "$text-colour" -hlbg "$bar-inactive-bg-colour" -hlfg "#9575cd" -font "Roboto 10"
 # bindsym $mod+d exec rofi -combi 'window,run' -lines 3 -eh 2
+bindsym $mod+d exec rofi -show run -config ~/.config/rofi/rofi.conf
 
 # change focus
 bindsym $mod+j focus left
@@ -255,7 +256,7 @@ bar {
 	i3bar_command i3bar
 	position top
 	height 24
-	tray_output primary
+	# tray_output primary
 
 	font pango:FontAwesome, Roboto 9
 
@@ -347,12 +348,12 @@ exec --no-startup-id feh --bg-fill $stdwp
 exec --no-startup-id transmission-gtk -m
 exec --no-startup-id dropbox
 exec --no-startup-id pamac-tray
-exec --no-startup-id rofi -key-window SuperL+a
-exec --no-startup-id rofi -key-run SuperL+d
+# exec --no-startup-id rofi -key-window SuperL+a
+# exec --no-startup-id rofi -key-run SuperL+d
 exec --no-startup-id dunst -config ~/.config/dunst/dunstrc
 
 # Open common applications
-exec --no-startup-id google-chrome-stable
+# exec --no-startup-id google-chrome-stable
 exec --no-startup-id atom
-exec --no-startup-id subl3
-exec --no-startup-id chromium
+# exec --no-startup-id subl3
+# exec --no-startup-id chromium
