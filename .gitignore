@@ -1,4 +1,5 @@
 # Directories
+builds/
 Desktop/
 Downloads/
 Dropbox/
@@ -41,7 +42,7 @@ Dropbox/
 .bashrc
 .config/cmus/autosave
 .config/cmus/cache
-.config/cmus/search_history
+.config/cmus/search-history
 .config/fish/fishd.matt-arch
 .config/fish/fish_history
 !.config/gtk-2.0/gtkrc-2.0
