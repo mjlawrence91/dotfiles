@@ -2,10 +2,12 @@
 
 Contains dotfiles for the following applications:
 
+## Operating system
 - .Xresources
 - .xinitrc
 - .xsession
 
+## Applications
 - cmus
 - compton
 - fish
@@ -14,6 +16,7 @@ Contains dotfiles for the following applications:
 - i3status
 - omf
 - ranger
+- rofi
 - sublime-text-3
 - transmission
-- xfce4-terminal
+- urxvt
