@@ -31,6 +31,7 @@ alias ga  "git add --all"
 alias gc  "git commit -m"
 alias gch "git checkout"
 alias gp  "git push"
+alias gpl "git pull"
 
 # Alias to backup routine
 alias mjlbackup="/home/matt/mjl-backup.sh"
