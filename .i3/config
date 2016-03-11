@@ -256,7 +256,6 @@ bar {
 	i3bar_command i3bar
 	position top
 	height 24
-	# tray_output primary
 
 	font pango:FontAwesome, Roboto 9
 
@@ -341,16 +340,14 @@ bindsym XF86Launch9 mode "$mode_wallpaper"
 exec --no-startup-id xautolock -time 20 -locker $locker, mode "default"
 
 # Start daemons
+exec --no-startup-id nm-applet
 exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
-# exec --no-startup-id /usr/lib/deja-dup/deja-dup/deja-dup-monitor
 exec --no-startup-id compton -bcf --config ~/.config/compton/compton.conf
-exec --no-startup-id feh --bg-fill $stdwp
+exec --no-startup-id dunst -config ~/.config/dunst/dunstrc
 exec --no-startup-id transmission-gtk -m
 exec --no-startup-id dropbox
 exec --no-startup-id pamac-tray
-# exec --no-startup-id rofi -key-window SuperL+a
-# exec --no-startup-id rofi -key-run SuperL+d
-exec --no-startup-id dunst -config ~/.config/dunst/dunstrc
+exec --no-startup-id feh --bg-fill $stdwp
 
 # Open common applications
 # exec --no-startup-id google-chrome-stable
