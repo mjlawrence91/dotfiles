@@ -23,14 +23,20 @@ source $HOME/.config/z-fish/z.fish
 source $HOME/.config/z-fish/z_complete.fish
 
 # Map ls command to something more useful
-alias ls="ls -hl --color=auto"
-alias lsa="ls -hla --color=auto"
+alias ls  "ls -hl --color=auto"
+alias lsa "ls -hla --color=auto"
+
+# Git commands
+alias ga  "git add --all"
+alias gc  "git commit -m"
+alias gch "git checkout"
+alias gp  "git push"
 
 # Alias to backup routine
 alias mjlbackup="/home/matt/mjl-backup.sh"
 
 # Load Ranger rc.conf in Home directory
-set RANGER_LOAD_DEFAULT_RC=FALSE
+set RANGER_LOAD_DEFAULT_RC "FALSE"
 
 # Configure theme
 set -g theme_display_git_ahead_verbose yes
