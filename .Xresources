@@ -7,29 +7,8 @@ Xft.dpi: 96
 Xft.rgba: rgb
 Xft.lcdfilter: lcddefault
 
-! rofi settings
-rofi.width:           60
-rofi.opacity:         85
-rofi.bw:              0
-rofi.bc:              #1c2230
-rofi.bg:              #1c2230
-rofi.fg:              #676e7d
-rofi.hlbg:            #c73b18
-rofi.hlfg:            #f3f4f5
-rofi.font:            Roboto 10
-rofi.terminal:        urxvt
-rofi.location:        0
-rofi.padding:         20
-rofi.yoffset:         0
-rofi.xoffset:         0
-rofi.separator-style: solid
-rofi.lines:           10
-rofi.columns:         1
-rofi.fixed-num-lines: true
-
 ! urxvt settings
 URxvt.perl-ext-common: default,clipboard,url-select,keyboard-select
-!URxvt.perl-ext-common: default,clipboard
 URxvt.font:			   xft:Hack:size=10:antialias:false
 URxvt.boldFont:		   xft:Hack:size=10:antialias:false
 URxvt.italicFont:	   xft:Hack:size=10:antialias:false
@@ -54,8 +33,8 @@ URxvt.clipboard.pastecmd: 	  xsel -ob
 ! urxvt: colour schemes
 URxvt.depth: 32
 
-!#include "/home/matt/.config/urxvt/Seti.xrdb"
-#include "/home/matt/.config/urxvt/MaterialDark.xrdb"
+#include "/home/matt/.config/urxvt/Seti.xrdb"
+!#include "/home/matt/.config/urxvt/MaterialDark.xrdb"
 
 URxvt*color0:       Ansi_0_Color
 URxvt*color1:       Ansi_1_Color
