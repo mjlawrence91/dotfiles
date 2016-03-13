@@ -14,7 +14,7 @@
 #define Ansi_7_Color #eeeeee
 #define Ansi_8_Color #323232
 #define Ansi_9_Color #c22832
-#define Background_Color [75]#111213
+#define Background_Color [80]#111213
 #define Bold_Color #cacecd
 #define Cursor_Color #e3bf21
 #define Cursor_Text_Color #e0be2e
