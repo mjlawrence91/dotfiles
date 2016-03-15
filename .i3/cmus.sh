@@ -19,6 +19,13 @@ else
 #        artist=$(echo -e "$Cur_song" | head -n 2 | tail -n 1)
 #        title=$(echo -e "$Cur_song" | head -n 1 )
 #        cmus-updatepidgin artist "$artist" title "$title"
+    elif [ $1 == "-D" ]; then
+        title=$(echo "$Cmus_remote" | grep -w title | cut -d ' ' -f 3- )
+        artist=$(echo "$Cmus_remote" | grep -w artist | cut -d ' ' -f 3- )
+        album=$(echo "$Cmus_remote" | grep -w album | cut -d ' ' -f 3- )
+        Cur_song="$title - $artist ($album)"
+
+        echo -e $Cur_song
     else
         cmus-remote $1
         Cur_song=$(cmus-remote -Q | grep tag | head -n 3 | sort -r | cut -d ' ' -f 3- )

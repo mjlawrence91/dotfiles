@@ -251,7 +251,9 @@ client.urgent 				$urgent-bg-colour		$urgent-bg-colour		$text-colour
 # Start i3bar to display a workspace bar (plus the system information i3status finds out, if available)
 bar {
 	strip_workspace_numbers yes
-	status_command i3blocks -c ~/.i3/i3blocks.conf
+	status_command ~/.scripts/conkyi3.sh
+	# status_command conky -c ~/.config/conky/conky.conf
+	# status_command i3blocks -c ~/.i3/i3blocks.conf
 	# i3bar_command ~/.i3/lemonbar/i3_lemonbar.sh
 	i3bar_command i3bar
 	position top
@@ -274,9 +276,9 @@ bar {
 }
 
 # Pulse Audio controls
-bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume 1 +5% 	# increase sound volume
-bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume 1 -5% 	# decrease sound volume
-bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 1 toggle 	 	# mute sound
+bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume 0 +5% 	# increase sound volume
+bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume 0 -5% 	# decrease sound volume
+bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 0 toggle 	 	# mute sound
 
 # Bind locking of screen to F19 key
 set $locker i3lock -i ~/.wallpapers/lock-screen.png
