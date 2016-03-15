@@ -5,6 +5,7 @@ Downloads/
 Dropbox/
 .atom/
 .cache/
+.dbus/
 .dropbox/
 .dropbox-dist/
 .gnome/
@@ -24,6 +25,7 @@ Dropbox/
 .config/dconf/
 .config/google-chrome/
 .config/menus/
+.config/nautilus/
 .config/pulse/
 .config/spotify/
 .config/sublime-text-3/Cache/
@@ -34,6 +36,7 @@ Dropbox/
 !.config/sublime-text-3/Packages/User
 .config/transmission-daemon/
 .config/vlc/
+.config/xfce4/
 .xsel.log
 
 # Files
@@ -55,6 +58,7 @@ Dropbox/
 .fehbg
 .gitconfig
 .git-credentials
+.lesshst
 .Xauthority
 .xsel-log
 .xsession-errors
