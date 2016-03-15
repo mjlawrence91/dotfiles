@@ -179,43 +179,9 @@
 /mnt/Music/Downloaded Music/Artists/Roger Waters/FLAC/CD2/16 Comfortably Numb.flac
 /mnt/Music/Downloaded Music/Artists/Richard & Linda Thompson/Richard & Linda Thompson-7 cd/Richard Thompson - 1978 - First Light/Richard & Linda Thompson - First Light - 08 - Pavanne.mp3
 /mnt/Music/Downloaded Music/Artists/Richard Thompson/Richard Thompson-1972-1999-22 cd/Richard Thompson - 1978 - First Light/Richard & Linda Thompson - First Light - 08 - Pavanne.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/01 - Doctor Who Theme - TV Version.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/02 - Westminster Bridge.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/03 - The Doctors Theme.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/04 - Cassandras Waltz.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/05 - Siltheen.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/06 - Fathers Day.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/07 - Rose In Peril.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/08 - Boom Town Suite.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/09 - Im Coming To Get You.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/10 - Hologram.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/11 - Rose Defeats The Daleks.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/12 - Clockwork TARDIS.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/13 - Harriet Jones Prime Minister.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/14 - Roses Theme.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/15 - Song For Ten.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/16 - The Face Of Boe.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/17 - UNIT.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/18 - Seeking The Doctor.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/19 - Madame De Pompadour.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/20 - Tooth And Claw.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/21 - The Lone Dalek.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/22 - New Adventures.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/23 - Finding Jackie.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/24 - Monster Bossa.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/25 - The Daleks.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/26 - The Cybermen.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/27 - Doomsday.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/28 - The Impossible Planet.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/29 - Socorax Encounter.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/30 - Love Dont Roam.mp3
-/mnt/Music/Downloaded Music/Artists/Murray Gold/Doctor Who - Original Murray Gold Television Soundtrack/31 - Doctor Who Theme Album Version.mp3
 /mnt/Music/iTunes/iTunes Music/Unknown Artist/First Name Terms/12 Lost All Feeling.mp3
 /mnt/Music/Downloaded Music/Artists/Arlo Guthrie/Victor Jara.mp3
-/mnt/Music/Downloaded Music/Artists/Bill Bailey/Tinselworm/Tinselworm-bill bailey (first half)/01 Track 1.mp3
-/mnt/Music/Downloaded Music/Artists/Bill Bailey/Tinselworm/Tinselworm-bill bailey (2nd half)/Tinselworm-bill bailey (2nd half).mp3
 /mnt/Music/iTunes/iTunes Music/Podcasts/Brain Damage/_Floyd's Worst Moments_.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/The Skeptics' Guide 5X5/Skeptics' Guide 5x5 #26 - Jun 29 200.mp3
 /mnt/Music/iTunes/iTunes Music/10cc/10cc/07 Rubber Bullets.mp3
 /mnt/Music/Downloaded Music/Artists/10cc/Greatest Hits & More/CD1/02 10CC - Rubber Bullets.mp3
 /mnt/Music/iTunes/iTunes Music/Airbag/Arnold Layne (Single)/Arnold Layne.mp3
@@ -275,15 +241,7 @@
 /mnt/Music/Downloaded Music/Artists/Bellowhead/Bellowhead - Burlesque/13 - Bellowhead - Death And The Lady.mp3
 /mnt/Music/iTunes/iTunes Music/Belshazzar's Feast/BBC4 Christmas Session - Fire And Ice/Sans Day Carol Medley.mp3
 /mnt/Music/iTunes/iTunes Music/Big Country/The Buffalo Skinners/08 Ships.mp3
-/mnt/Music/iTunes/iTunes Music/Bill Bailey/Bewilderness/Cockney Medley.mp3
-/mnt/Music/iTunes/iTunes Music/Bill Bailey/Bewilderness/The Leg of Time.mp3
-/mnt/Music/iTunes/iTunes Music/Bill Bailey/Bewilderness/01 Insect Nation.mp3
-/mnt/Music/iTunes/iTunes Music/Bill Bailey/Part Troll/Teenage Rock (Texting).mp3
-/mnt/Music/iTunes/iTunes Music/Bill Bailey/Part Troll/Doctor Who.mp3
-/mnt/Music/iTunes/iTunes Music/Bill Bailey/Part Troll/Apocalyptic BBC.mp3
-/mnt/Music/Downloaded Music/Artists/Bill Bailey/Bill Bailey and Anne Dudley - Cosmic Shindig.mp3
 /mnt/Music/iTunes/iTunes Music/Bill Withers/Old Grey Whistle Test 1972/Ain't No Sunshine.mp3
-/mnt/Music/iTunes/iTunes Music/Billy Connolly/Unknown Album/Evil Scotsman.mp3
 /mnt/Music/iTunes/iTunes Music/Billy Joel/Old Grey Whistle Test 1974/Piano Man.mp3
 /mnt/Music/iTunes/iTunes Music/Billy Joel/Storm Front/02 We Didn't Start The Fire.mp3
 /mnt/Music/iTunes/iTunes Music/Billy Mitchell/The Devil's Ground/The Devil's Ground.mp3
@@ -396,6 +354,7 @@
 /mnt/Music/iTunes/iTunes Music/Chris Wood, Karine Polwart & Neill & Cal/Which Side Are You On_/Moving On Song.mp3
 /mnt/Music/iTunes/iTunes Music/Clannad/Celtic Connections 2007/Harry's Game.mp3
 /mnt/Music/Downloaded Music/Artists/Guy Clark/Guy Clark - Crystelle.mp3
+/mnt/Music/Downloaded Music/Artists/Clint Mansell/OST. Requiem For A Dream 2 CD (XL Radio)/CD 1/Clint Mansell & Kronos Quartet - Lux Aeterna.mp3
 /mnt/Music/iTunes/iTunes Music/Coldplay/X&Y/04 Fix You.mp3
 /mnt/Music/iTunes/iTunes Music/Coldplay/Viva La Vida Or Death And All His Friend/03 Lost!.mp3
 /mnt/Music/iTunes/iTunes Music/Coldplay/Viva La Vida Or Death And All His Friend/08 Violet Hill.mp3
@@ -465,9 +424,32 @@
 /mnt/Music/iTunes/iTunes Music/Crooked Still/Still Crooked/12 Wading Deep Waters.mp3
 /mnt/Music/Downloaded Music/Artists/Crooked Still/Still Crooked/13-crooked_still-baby_whats_wrong_with_you.mp3
 /mnt/Music/iTunes/iTunes Music/Crosby, Stills & Nash & Young/Crosby, Stills & Nash [Disc 2]/2-02 Ohio.mp3
+/mnt/Music/Downloaded Music/Artists/Danny Elfman/Batman-1989-Soundtrack_by_tntvillage.org/Danny Elfman - 01 - Batman Theme.mp3
+/mnt/Music/Downloaded Music/Artists/Danny Elfman/Batman-1989-Soundtrack_by_tntvillage.org/Danny Elfman - 02 - Roof Fight.mp3
+/mnt/Music/Downloaded Music/Artists/Danny Elfman/Batman-1989-Soundtrack_by_tntvillage.org/Danny Elfman - 03 - First Confrontation.mp3
+/mnt/Music/Downloaded Music/Artists/Danny Elfman/Batman-1989-Soundtrack_by_tntvillage.org/Danny Elfman - 04 - Kitchen, Surgery, Face-Off.mp3
+/mnt/Music/Downloaded Music/Artists/Danny Elfman/Batman-1989-Soundtrack_by_tntvillage.org/Danny Elfman - 05 - Flowers.mp3
+/mnt/Music/Downloaded Music/Artists/Danny Elfman/Batman-1989-Soundtrack_by_tntvillage.org/Danny Elfman - 06 - Clown Attack.mp3
+/mnt/Music/Downloaded Music/Artists/Danny Elfman/Batman-1989-Soundtrack_by_tntvillage.org/Danny Elfman - 07 - Batman To The Rescue.mp3
+/mnt/Music/Downloaded Music/Artists/Danny Elfman/Batman-1989-Soundtrack_by_tntvillage.org/Danny Elfman - 08 - Roasted Dude.mp3
+/mnt/Music/Downloaded Music/Artists/Danny Elfman/Batman-1989-Soundtrack_by_tntvillage.org/Danny Elfman - 09 - Photosbeautiful Dreamer.mp3
+/mnt/Music/Downloaded Music/Artists/Danny Elfman/Batman-1989-Soundtrack_by_tntvillage.org/Danny Elfman - 10 - Descent Into Mystery.mp3
+/mnt/Music/Downloaded Music/Artists/Danny Elfman/Batman-1989-Soundtrack_by_tntvillage.org/Danny Elfman - 11 - Bat Cave.mp3
+/mnt/Music/Downloaded Music/Artists/Danny Elfman/Batman-1989-Soundtrack_by_tntvillage.org/Danny Elfman - 12 - Joker's Poem.mp3
+/mnt/Music/Downloaded Music/Artists/Danny Elfman/Batman-1989-Soundtrack_by_tntvillage.org/Danny Elfman - 13 - Childhood Remembered.mp3
+/mnt/Music/Downloaded Music/Artists/Danny Elfman/Batman-1989-Soundtrack_by_tntvillage.org/Danny Elfman - 14 - Love Theme.mp3
+/mnt/Music/Downloaded Music/Artists/Danny Elfman/Batman-1989-Soundtrack_by_tntvillage.org/Danny Elfman - 15 - Charge Of The Batmobile.mp3
+/mnt/Music/Downloaded Music/Artists/Danny Elfman/Batman-1989-Soundtrack_by_tntvillage.org/Danny Elfman - 16 - Attack Of The Batwing.mp3
+/mnt/Music/Downloaded Music/Artists/Danny Elfman/Batman-1989-Soundtrack_by_tntvillage.org/Danny Elfman - 17 - Up The Cathedral.mp3
+/mnt/Music/Downloaded Music/Artists/Danny Elfman/Batman-1989-Soundtrack_by_tntvillage.org/Danny Elfman - 18 - Waltz To The Death.mp3
+/mnt/Music/Downloaded Music/Artists/Danny Elfman/Batman-1989-Soundtrack_by_tntvillage.org/Danny Elfman - 19 - Final Confrontation.mp3
+/mnt/Music/Downloaded Music/Artists/Danny Elfman/Batman-1989-Soundtrack_by_tntvillage.org/Danny Elfman - 20 - Finale.mp3
+/mnt/Music/Downloaded Music/Artists/Danny Elfman/Batman-1989-Soundtrack_by_tntvillage.org/Danny Elfman - 21 - Batman Theme Reprise.mp3
 /mnt/Music/iTunes/iTunes Music/Darrell Scott & Karen Matheson/Transatlantic Sessions 3 Vol 2/You'll Never Leave Harlan Alive.mp3
 /mnt/Music/iTunes/iTunes Music/Darrell Scott & Paul Brady/Transatlantic Sessions 3 Vol 1/Shattered Cross.mp3
 /mnt/Music/Downloaded Music/Artists/Dave Matthews Band/Big Whiskey and the GrooGrux King/01. Grux.mp3
+/mnt/Music/Downloaded Music/Artists/Dave Matthews Band/Big Whiskey and the GrooGrux King/02. Shake Me Like A Monkey.mp3
+/mnt/Music/iTunes/iTunes Music/Dave Matthews Band/Big Whiskey And The GrooGrux King/02 Shake Me Like A Monkey 1.mp3
 /mnt/Music/iTunes/iTunes Music/Dave Matthews Band/Big Whiskey And The GrooGrux King/02 Shake Me Like A Monkey.mp3
 /mnt/Music/Downloaded Music/Artists/Dave Matthews Band/Big Whiskey and the GrooGrux King/03. Funny The Way It Is.mp3
 /mnt/Music/Downloaded Music/Artists/Dave Matthews Band/Big Whiskey and the GrooGrux King/04. Lying In The Hands Of God.mp3
@@ -478,6 +460,7 @@
 /mnt/Music/Downloaded Music/Artists/Dave Matthews Band/Big Whiskey and the GrooGrux King/09. Alligator Pie.mp3
 /mnt/Music/Downloaded Music/Artists/Dave Matthews Band/Big Whiskey and the GrooGrux King/10. Seven.mp3
 /mnt/Music/Downloaded Music/Artists/Dave Matthews Band/Big Whiskey and the GrooGrux King/11. Time Bomb.mp3
+/mnt/Music/iTunes/iTunes Music/Dave Matthews Band/Big Whiskey And The GrooGrux King/11 Time Bomb.mp3
 /mnt/Music/Downloaded Music/Artists/Dave Matthews Band/Big Whiskey and the GrooGrux King/12. Baby Blue.mp3
 /mnt/Music/Downloaded Music/Artists/Dave Matthews Band/Big Whiskey and the GrooGrux King/13. You & Me.mp3
 /mnt/Music/Downloaded Music/Artists/Dave Matthews Band/Big Whiskey and the GrooGrux King/14. Write A Song.mp3
@@ -513,6 +496,7 @@
 /mnt/Music/Downloaded Music/Artists/David Gilmour/David Gilmour - 2006-08-26 - Live from Gdansk/Disc 3/03 - Comfortably Numb..flac
 /mnt/Music/iTunes/iTunes Music/David Gilmour/Miller StratPack/Marooned.mp3
 /mnt/Music/iTunes/iTunes Music/David Gilmour/David Gilmour In Concert/Dimming Of The Day.mp3
+/mnt/Music/Downloaded Music/Artists/Backing Tracks/BreatheDSOTMminusrhythm_backing.mp3
 /mnt/Music/iTunes/iTunes Music/David Gilmour/On An Island/04 Take A Breath.mp3
 /mnt/Music/iTunes/iTunes Music/David Gilmour & Rick Wright/David Gilmour In Concert/Breakthrough.mp3
 /mnt/Music/iTunes/iTunes Music/David Gray/A Century Ends/02 A Century Ends.mp3
@@ -555,6 +539,16 @@
 /mnt/Music/iTunes/iTunes Music/Doyle Bramhall II/Crossroads Guitar Festival 2007 Disc 1/Rosie.mp3
 /mnt/Music/iTunes/iTunes Music/Drever McCusker Woomble/Celtic Connections 2009/Into The Blue.mp3
 /mnt/Music/iTunes/iTunes Music/Drever McCusker Woomble/Celtic Connections 2009/The Poorest Company.mp3
+/mnt/Music/Downloaded Music/Artists/Duffy/Duffy - Rockferry [2008][CD+2 SkidVid_XviD+Cov]192Kbps/01  Duffy - Rockferry.mp3
+/mnt/Music/Downloaded Music/Artists/Duffy/Duffy - Rockferry [2008][CD+2 SkidVid_XviD+Cov]192Kbps/02  Duffy - Warwick Avenue.mp3
+/mnt/Music/Downloaded Music/Artists/Duffy/Duffy - Rockferry [2008][CD+2 SkidVid_XviD+Cov]192Kbps/03  Duffy - Serious.mp3
+/mnt/Music/Downloaded Music/Artists/Duffy/Duffy - Rockferry [2008][CD+2 SkidVid_XviD+Cov]192Kbps/04  Duffy - Stepping Stone.mp3
+/mnt/Music/Downloaded Music/Artists/Duffy/Duffy - Rockferry [2008][CD+2 SkidVid_XviD+Cov]192Kbps/05  Duffy - Syrup & Honey.mp3
+/mnt/Music/Downloaded Music/Artists/Duffy/Duffy - Rockferry [2008][CD+2 SkidVid_XviD+Cov]192Kbps/06  Duffy - Hanging On Too Long.mp3
+/mnt/Music/Downloaded Music/Artists/Duffy/Duffy - Rockferry [2008][CD+2 SkidVid_XviD+Cov]192Kbps/07  Duffy - Mercy.mp3
+/mnt/Music/Downloaded Music/Artists/Duffy/Duffy - Rockferry [2008][CD+2 SkidVid_XviD+Cov]192Kbps/08  Duffy - Delayed Devotion.mp3
+/mnt/Music/Downloaded Music/Artists/Duffy/Duffy - Rockferry [2008][CD+2 SkidVid_XviD+Cov]192Kbps/09  Duffy - I'm Scared.mp3
+/mnt/Music/Downloaded Music/Artists/Duffy/Duffy - Rockferry [2008][CD+2 SkidVid_XviD+Cov]192Kbps/10  Duffy - Distant Dreamer.mp3
 /mnt/Music/iTunes/iTunes Music/Eivør Pálsdóttir/Celtic Connections 2006/Trøllabundin.mp3
 /mnt/Music/iTunes/iTunes Music/Elbow/Later... with Jools Holland/Grounds For Divorce.mp3
 /mnt/Music/iTunes/iTunes Music/Elbow/Later... with Jools Holland/One Day Like This.mp3
@@ -566,13 +560,21 @@
 /mnt/Music/iTunes/iTunes Music/Emmylou Harris/Luxury Liner/You Never Can Tell.mp3
 /mnt/Music/iTunes/iTunes Music/Emmylou Harris/Wrecking Ball/06 Deeper Well.mp3
 /mnt/Music/Downloaded Music/Artists/Equation/First Name Terms/Wild Card.mp3
+/mnt/Music/iTunes/iTunes Music/Equation/First Name Terms/01 Wild Card.mp3
 /mnt/Music/Downloaded Music/Artists/Equation/First Name Terms/Cry Wolf.mp3
+/mnt/Music/iTunes/iTunes Music/Equation/First Name Terms/02 Cry Wolf.mp3
 /mnt/Music/Downloaded Music/Artists/Equation/First Name Terms/Clare.mp3
+/mnt/Music/iTunes/iTunes Music/Equation/First Name Terms/04 Clare.mp3
 /mnt/Music/Downloaded Music/Artists/Equation/First Name Terms/Speak Your Thoughts.mp3
+/mnt/Music/iTunes/iTunes Music/Equation/First Name Terms/05 Speak Your Thoughts.mp3
 /mnt/Music/Downloaded Music/Artists/Equation/First Name Terms/The End Of May.mp3
+/mnt/Music/iTunes/iTunes Music/Equation/First Name Terms/08 The End Of May.mp3
 /mnt/Music/Downloaded Music/Artists/Equation/First Name Terms/Drowning Man.mp3
+/mnt/Music/iTunes/iTunes Music/Equation/First Name Terms/09 Drowning Man.mp3
 /mnt/Music/Downloaded Music/Artists/Equation/First Name Terms/Jack And Suzanne.mp3
+/mnt/Music/iTunes/iTunes Music/Equation/First Name Terms/11 Jack And Suzanne.mp3
 /mnt/Music/Downloaded Music/Artists/Equation/First Name Terms/Lost All Feeling.mp3
+/mnt/Music/iTunes/iTunes Music/Equation/First Name Terms/12 Lost All Feeling.mp3
 /mnt/Music/iTunes/iTunes Music/Eric Andersen/Folk America at the BBC_ Greenwich Villa/Violets Of Dawn.mp3
 /mnt/Music/iTunes/iTunes Music/Eric Clapton/August/Behind The Mask.mp3
 /mnt/Music/iTunes/iTunes Music/Eric Clapton/Bob Dylan 30th Anniversary Concert/Don't Think Twice, It's All Right.mp3
@@ -638,7 +640,9 @@
 /mnt/Music/iTunes/iTunes Music/Fairport Convention/Liege & Lief/07 Tam Lin.mp3
 /mnt/Music/iTunes/iTunes Music/Fairport Convention/Liege & Lief/08 Crazy Man Michael.mp3
 /mnt/Music/iTunes/iTunes Music/Fairport Convention/History of Fairport Convention/17 The Hanging Song.mp3
+/mnt/Music/Downloaded Music/Artists/Fleet Foxes/Fleet Foxes/Fleet Foxes - White Winter Hymnal.mp3
 /mnt/Music/iTunes/iTunes Music/Fleet Foxes/Fleet Foxes/White Winter Hymnal.mp3
+/mnt/Music/Downloaded Music/Artists/Fleet Foxes/Sun Giant/Fleet Foxes - Mykonos.mp3
 /mnt/Music/iTunes/iTunes Music/Fleet Foxes/Sun Giant/Mykonos.mp3
 /mnt/Music/iTunes/iTunes Music/Fleetwood Mac/The Dance/Big Love.mp3
 /mnt/Music/iTunes/iTunes Music/Fleetwood Mac/The Dance/Bleed To Love Her.mp3
@@ -683,6 +687,13 @@
 /mnt/Music/iTunes/iTunes Music/Gordon Lightfoot/Gord's Gold/20 If You Could Read My Mind.mp3
 /mnt/Music/iTunes/iTunes Music/Gordon Lightfoot/Songbook/3-11 The Wreck of the Edmund Fitzger.mp3
 /mnt/Music/iTunes/iTunes Music/Gray, David/A New Day At Midnight/02 Caroline.mp3
+/mnt/Music/Downloaded Music/Artists/Gustav Holst/The Planets Suite/01-Mars The Bringer of War.mp3
+/mnt/Music/Downloaded Music/Artists/Gustav Holst/The Planets Suite/02-Venus The Bringer of Peace.mp3
+/mnt/Music/Downloaded Music/Artists/Gustav Holst/The Planets Suite/03-Mercury The Winged Messenger.mp3
+/mnt/Music/Downloaded Music/Artists/Gustav Holst/The Planets Suite/04-Jupiter The Bringer of Jollity.mp3
+/mnt/Music/Downloaded Music/Artists/Gustav Holst/The Planets Suite/05-Saturn The Bringer of Old Age.mp3
+/mnt/Music/Downloaded Music/Artists/Gustav Holst/The Planets Suite/06-Uranus The Magician.mp3
+/mnt/Music/Downloaded Music/Artists/Gustav Holst/The Planets Suite/07-Neptune The Mystic.mp3
 /mnt/Music/iTunes/iTunes Music/Guy Clark/The South Coast Of Texas/02 Crystelle.mp3
 /mnt/Music/iTunes/iTunes Music/Hall & Oates/Abandoned Luncheonette/She's Gone.mp3
 /mnt/Music/Downloaded Music/Artists/Hans Zimmer/Hans.Zimmer-Inception.2010.Soundtrack/01. Half Remembered Dream.mp3
@@ -864,6 +875,9 @@
 /mnt/Music/iTunes/iTunes Music/June Tabor/June Tabor BBC4 Session/Hughie Graeme.mp3
 /mnt/Music/iTunes/iTunes Music/June Tabor & Martin Simpson/June Tabor BBC4 Session/Strange Affair.mp3
 /mnt/Music/iTunes/iTunes Music/Karine Polwart/Fairest Floo'er/The Wife of Usher's Well.mp3
+/mnt/Music/iTunes/iTunes Music/Karl Marx & Friedrich Engels/The Communist Manifesto/01 Bourgeois and Proletarians.mp3
+/mnt/Music/iTunes/iTunes Music/Karl Marx & Friedrich Engels/The Communist Manifesto/02 Proletarians and Communists.mp3
+/mnt/Music/iTunes/iTunes Music/Karl Marx & Friedrich Engels/The Communist Manifesto/03 Socialist and Communist Literatur.mp3
 /mnt/Music/iTunes/iTunes Music/Kate Rusby/Awkward Annie/The Village Green Preservation Socie.mp3
 /mnt/Music/iTunes/iTunes Music/Kate Rusby/Christmas Voices/Serving Girl's Holiday.mp3
 /mnt/Music/Downloaded Music/Artists/King Crimson/King_Crimson_-_1969_-_In_the_Court_of_the_Crimson_King/King Crimson - 1969 - In the Court of the Crimson King/King Crimson - 1969 - In the Court of the Crimson King - 01 - 21st Century Schizoid Man.mp3
@@ -1079,6 +1093,31 @@
 /mnt/Music/Downloaded Music/Artists/Murray Gold/Murray Gold - Doctor Who (Series 3)/27 - Murray Gold - The Master Tape.mp3
 /mnt/Music/Downloaded Music/Artists/Murray Gold/Murray Gold - Doctor Who (Series 3)/28 - Murray Gold - Abide With Me.mp3
 /mnt/Music/Downloaded Music/Artists/Murray Gold/Murray Gold - Doctor Who (Series 3)/Additional Files/28 - Murray Gold - Abide With Me [SHORTENED].mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things/01 1.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things/02 2.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things/03 3.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things/04 4.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things/05 5.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things/06 6.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things/07 7.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things/08 8.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things Disc 2/01 1-2.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things Disc 2/02 2-2.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things Disc 2/03 3-2.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things Disc 2/04 4-2.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things Disc 2/05 5-2.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things Disc 2/06 6-2.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things Disc 2/07 7-2.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things Disc 2/08 8-2.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things Disc 2/09 9-2.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things Disc 3/01 The Flints of Memory Lane.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things Disc 3/02 Closing Time.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things Disc 3/03 In the grotto,.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things Disc 3/04 Going Wodwo.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things Disc 3/05 Bitter Grounds.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things Disc 3/06 Two. 'Tounge brought me here'.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things Disc 3/07 Three. 'Nothing, like something, happens anywhere'.mp3
+/mnt/Music/Downloaded Music/Artists/Neil Gaiman/Fragile Things/Neil Gaiman/Fragile Things Disc 3/08 I had intended to leave.mp3
 /mnt/Music/iTunes/iTunes Music/Neil Young/After The Gold Rush/07 Don't Let It Bring You Down.mp3
 /mnt/Music/iTunes/iTunes Music/Neil Young/Harvest/06 Old Man.mp3
 /mnt/Music/iTunes/iTunes Music/Neil Young/Zuma/Cortez The Killer.mp3
@@ -1088,6 +1127,7 @@
 /mnt/Music/iTunes/iTunes Music/Neil Young/Harvest Moon/05 War Of Man.mp3
 /mnt/Music/iTunes/iTunes Music/Neil Young/Harvest Moon/07 Such A Woman.mp3
 /mnt/Music/iTunes/iTunes Music/Neil Young/Harvest Moon/10 Natural Beauty.mp3
+/mnt/Music/iTunes/iTunes Music/New Radicals/Maybe You've Been Brainwashed Too/You Get What You Give.mp3
 /mnt/Music/iTunes/iTunes Music/Newton Faulkner/Rebuilt By Humans/If This Is It.mp3
 /mnt/Music/iTunes/iTunes Music/Nick Cave & The Bad Seeds/The Best of Nick Cave & The Bad Seeds/Red Right Hand.mp3
 /mnt/Music/iTunes/iTunes Music/Nick Drake/Five Leaves Left/01 Time Has Told Me.mp3
@@ -1718,6 +1758,18 @@
 /mnt/Music/iTunes/iTunes Music/Ry Cooder/Old Grey Whistle Test 1982/Little Sister.mp3
 /mnt/Music/iTunes/iTunes Music/Sainte Marie, Buffy/Up Where We Belong/Starwalker.mp3
 /mnt/Music/iTunes/iTunes Music/Sam Brown/Concert For George (Disc 2)/2-08 Horse To The Water.mp3
+/mnt/Music/Downloaded Music/Artists/Sam Harris/Letter to a Christian Nation (Harris) [NF]/Letter to a Christian Nation CD01.mp3
+/mnt/Music/iTunes/iTunes Music/Sam Harris/Letter to a Christian Nation/01 Letter to a Christian Nation 1.mp3
+/mnt/Music/Downloaded Music/Artists/Sam Harris/Letter to a Christian Nation (Harris) [NF]/Letter to a Christian Nation CD02.mp3
+/mnt/Music/iTunes/iTunes Music/Sam Harris/Letter to a Christian Nation/02 Letter to a Christian Nation 2.mp3
+/mnt/Music/Downloaded Music/Artists/Sam Harris/The End of Faith - By Sam Harris - Audio Book/01 - Reason in Exile.mp3
+/mnt/Music/Downloaded Music/Artists/Sam Harris/The End of Faith - By Sam Harris - Audio Book/02 - The Nature of Belief.mp3
+/mnt/Music/Downloaded Music/Artists/Sam Harris/The End of Faith - By Sam Harris - Audio Book/03 - In the Shadow of God.mp3
+/mnt/Music/Downloaded Music/Artists/Sam Harris/The End of Faith - By Sam Harris - Audio Book/04 - The Problem with Islam.mp3
+/mnt/Music/Downloaded Music/Artists/Sam Harris/The End of Faith - By Sam Harris - Audio Book/05 - West of Eden.mp3
+/mnt/Music/Downloaded Music/Artists/Sam Harris/The End of Faith - By Sam Harris - Audio Book/06 - A Science of Good and Evil.mp3
+/mnt/Music/Downloaded Music/Artists/Sam Harris/The End of Faith - By Sam Harris - Audio Book/07 - Experiments in Consciousness.mp3
+/mnt/Music/Downloaded Music/Artists/Sam Harris/The End of Faith - By Sam Harris - Audio Book/08 - Epilogue.mp3
 /mnt/Music/iTunes/iTunes Music/Samuel L. Jackson/Black Snake Moan Soundtrack/Alice Mae.mp3
 /mnt/Music/iTunes/iTunes Music/Samuel L. Jackson/Black Snake Moan Soundtrack/Black Snake Moan.mp3
 /mnt/Music/iTunes/iTunes Music/Samuel L. Jackson/Black Snake Moan Soundtrack/Stack-O-Lee.mp3
@@ -1859,13 +1911,6 @@
 /mnt/Music/iTunes/iTunes Music/The Derek Trucks Band/Crossroads Guitar Festival 2007/Sahib Teri Bandi.mp3
 /mnt/Music/iTunes/iTunes Music/The Derek Trucks Band/Songlines Live/Key To The Highway.mp3
 /mnt/Music/iTunes/iTunes Music/The Derek Trucks Band & Susan Tedeschi/Crossroads Guitar Festival 2007 Disc 1/Anyday.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/Brain Damage/_The Wright Stuff_.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/Brain Damage/_100_.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/Brain Damage/_Brain Damage Down Under 2.0_.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/Brain Damage/_Beyond Our Control_.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/Brain Damage/_Far Side of The Moon_.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/Brain Damage/_Flashback_.mp3
-/mnt/Music/iTunes/iTunes Music/Podcasts/Brain Damage/_New Orleans 94_.mp3
 /mnt/Music/iTunes/iTunes Music/The Eagles/Eagles_ Farewell I Tour/Dirty Laundry.mp3
 /mnt/Music/iTunes/iTunes Music/The Eagles/The Eagles/01 Take It Easy.mp3
 /mnt/Music/iTunes/iTunes Music/The Eagles/The Eagles/09 Peaceful Easy Feeling.mp3
@@ -1880,6 +1925,7 @@
 /mnt/Music/iTunes/iTunes Music/The Eagles/Long Road Out Of Eden [Disc 1]/1-03 Busy Being Fabulous.mp3
 /mnt/Music/iTunes/iTunes Music/The Eagles/Long Road Out Of Eden [Disc 2]/2-01 Long Road Out Of Eden.mp3
 /mnt/Music/iTunes/iTunes Music/The Eagles/Long Road Out Of Eden [Disc 2]/2-03 Somebody.mp3
+/mnt/Music/iTunes/iTunes Music/The Goons/The Last Goon Show Of All/What Time Is It Eccles_.mp3
 /mnt/Music/iTunes/iTunes Music/The Hooters/One Way Home/03 Johnny B.mp3
 /mnt/Music/iTunes/iTunes Music/The Ian McMillan Orchestra/Sharp Stories/Song of the Quarryman.mp3
 /mnt/Music/Downloaded Music/Artists/The Imagined Village/Empire And Love/Cum On Feel The Noize.mp3
@@ -1907,6 +1953,7 @@
 /mnt/Music/iTunes/iTunes Music/The Rolling Stones/Sticky Fingers/01 Brown Sugar.mp3
 /mnt/Music/iTunes/iTunes Music/The Rolling Stones/Love You Live Disc 2/03 Little Red Rooster.mp3
 /mnt/Music/iTunes/iTunes Music/The Rolling Stones/Tattoo You/01 Start Me Up.mp3
+/mnt/Music/iTunes/iTunes Music/The Two Ronnies/The Two Ronnies/52 Mastermind.mp3
 /mnt/Music/iTunes/iTunes Music/The Waterboys & Sharon Shannon/Cambridge Folk Festival 2007/Raggle Taggle Gypsy.mp3
 /mnt/Music/iTunes/iTunes Music/The Who/Live 8 Disc 3/255 Won't Get Fooled Again.mp3
 /mnt/Music/iTunes/iTunes Music/Thomas Blug/Guitar From The Heart/I'll Be There.mp3
@@ -1994,7 +2041,6 @@
 /mnt/Music/iTunes/iTunes Music/Various Artists/Folk Britannia - Daughters of Albion/Down By The Water.mp3
 /mnt/Music/iTunes/iTunes Music/Various Artists/Folk Britannia - Daughters of Albion/Lili Marlene.mp3
 /mnt/Music/iTunes/iTunes Music/Various Artists/Folk Britannia - Daughters of Albion/The Enchantment (Reynardine).mp3
-/mnt/Music/iTunes/iTunes Music/Various Artists/The Secret Policeman's Ball/03 Schoolmaster.mp3
 /mnt/Music/iTunes/iTunes Music/Various Artists/Transatlantic Sessions 4/A Man of Constant Sorrow.mp3
 /mnt/Music/iTunes/iTunes Music/Various Artists/Transatlantic Sessions 4/Caledonia.mp3
 /mnt/Music/iTunes/iTunes Music/Various Artists/Transatlantic Sessions 4/Copperline.mp3
@@ -2011,6 +2057,22 @@
 /mnt/Music/iTunes/iTunes Music/Various Artists/Transatlantic Sessions 4/The Bride's Delight_Oot East By The.mp3
 /mnt/Music/iTunes/iTunes Music/Various Artists/Transatlantic Sessions 4/Work Song.mp3
 /mnt/Music/iTunes/iTunes Music/Various Artists/Transatlantic Sessions 4/Worry Not.mp3
+/mnt/Music/Downloaded Music/Artists/Jeff Wayne/War Of The Worlds [1995] [2CD+Covers]/101  War Of The Worlds - The Eve Of The War.mp3
+/mnt/Music/Downloaded Music/Artists/Jeff Wayne/War Of The Worlds [1995] [2CD+Covers]/201  War Of The Worlds - The Red Weed (Part 1).mp3
+/mnt/Music/Downloaded Music/Artists/Jeff Wayne/War Of The Worlds [1995] [2CD+Covers]/102  War Of The Worlds - Horsell Common And The Heat Ray.mp3
+/mnt/Music/Downloaded Music/Artists/Jeff Wayne/War Of The Worlds [1995] [2CD+Covers]/202  War Of The Worlds - The Spirit Of Man.mp3
+/mnt/Music/Downloaded Music/Artists/Jeff Wayne/War Of The Worlds [1995] [2CD+Covers]/103  War Of The Worlds - The Artilleryman And The Fighting Machine.mp3
+/mnt/Music/Downloaded Music/Artists/Jeff Wayne/War Of The Worlds [1995] [2CD+Covers]/203  War Of The Worlds - The Red Weed (Part 2).mp3
+/mnt/Music/Downloaded Music/Artists/Jeff Wayne/War Of The Worlds [1995] [2CD+Covers]/204  War Of The Worlds - Brave New World.mp3
+/mnt/Music/Downloaded Music/Artists/Jeff Wayne/War Of The Worlds [1995] [2CD+Covers]/104  War Of The Worlds - Forever Autumn.mp3
+/mnt/Music/Downloaded Music/Artists/Jeff Wayne/War Of The Worlds [1995] [2CD+Covers]/205  War Of The Worlds - Dead London.mp3
+/mnt/Music/Downloaded Music/Artists/Jeff Wayne/War Of The Worlds [1995] [2CD+Covers]/105  War Of The Worlds - Thunderchild.mp3
+/mnt/Music/Downloaded Music/Artists/Jeff Wayne/War Of The Worlds [1995] [2CD+Covers]/206  War Of The Worlds - Epilogue (Part 1).mp3
+/mnt/Music/Downloaded Music/Artists/Jeff Wayne/War Of The Worlds [1995] [2CD+Covers]/207  War Of The Worlds - Epilogue (Part 2) (NASA).mp3
+/mnt/Music/Downloaded Music/Artists/Jeff Wayne/War Of The Worlds [1995] [2CD+Covers]/208  War Of The Worlds - The Spirit Of Man (Dubulladub).mp3
+/mnt/Music/Downloaded Music/Artists/Jeff Wayne/War Of The Worlds [1995] [2CD+Covers]/209  War Of The Worlds - Dark Autumn Dub.mp3
+/mnt/Music/Downloaded Music/Artists/Jeff Wayne/War Of The Worlds [1995] [2CD+Covers]/210  War Of The Worlds - Forever Autumn (Remix 95).mp3
+/mnt/Music/Downloaded Music/Artists/Jeff Wayne/War Of The Worlds [1995] [2CD+Covers]/211  War Of The Worlds - Epilogue (Part 2) The Eve Of The War (Remix 95).mp3
 /mnt/Music/iTunes/iTunes Music/Compilations/Enjoy Every Sandwich/02 Werewolves Of London.mp3
 /mnt/Music/iTunes/iTunes Music/Warren Zevon/David Letterman Show 30_10_02/Roland The Headless Thompson Gunner.mp3
 /mnt/Music/iTunes/iTunes Music/Warren Zevon/Excitable Boy/Lawyers, Guns and Money.mp3
