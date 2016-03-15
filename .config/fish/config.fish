@@ -35,7 +35,7 @@ alias gpl "git pull"
 alias gs  "git status"
 
 # Alias to backup routine
-alias mjlbackup="/home/matt/mjl-backup.sh"
+alias mjlbackup="/home/matt/.scripts/backup/mjl-backup.sh"
 
 # Load Ranger rc.conf in Home directory
 set RANGER_LOAD_DEFAULT_RC "FALSE"
