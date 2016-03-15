@@ -72,7 +72,7 @@
     # The transparency of the window.  Range: [0; 100].
     # This option will only work if a compositing windowmanager is
     # present (e.g. xcompmgr, compiz, etc.).
-    transparency = 104
+    transparency = 10
 
     # Don't remove messages, if the user is idle (no mouse or keyboard input)
     # for longer than idle_threshold seconds.
@@ -180,7 +180,7 @@
 
 [urgency_normal]
     background = "#1c2230"
-    foreground = "#f1471d"
+    foreground = "#f3f4f5"
     timeout = 5
 
 [urgency_critical]
