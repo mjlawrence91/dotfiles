@@ -1,5 +1,0 @@
-set passwd=
-set skip_track_info=false
-q
-set status_display_program=
-quit

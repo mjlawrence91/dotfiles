@@ -1733,18 +1733,6 @@
 /mnt/Music/iTunes/iTunes Music/Ry Cooder/Old Grey Whistle Test 1982/Little Sister.mp3
 /mnt/Music/iTunes/iTunes Music/Sainte Marie, Buffy/Up Where We Belong/Starwalker.mp3
 /mnt/Music/iTunes/iTunes Music/Sam Brown/Concert For George (Disc 2)/2-08 Horse To The Water.mp3
-/mnt/Music/Downloaded Music/Artists/Sam Harris/Letter to a Christian Nation (Harris) [NF]/Letter to a Christian Nation CD01.mp3
-/mnt/Music/iTunes/iTunes Music/Sam Harris/Letter to a Christian Nation/01 Letter to a Christian Nation 1.mp3
-/mnt/Music/Downloaded Music/Artists/Sam Harris/Letter to a Christian Nation (Harris) [NF]/Letter to a Christian Nation CD02.mp3
-/mnt/Music/iTunes/iTunes Music/Sam Harris/Letter to a Christian Nation/02 Letter to a Christian Nation 2.mp3
-/mnt/Music/Downloaded Music/Artists/Sam Harris/The End of Faith - By Sam Harris - Audio Book/01 - Reason in Exile.mp3
-/mnt/Music/Downloaded Music/Artists/Sam Harris/The End of Faith - By Sam Harris - Audio Book/02 - The Nature of Belief.mp3
-/mnt/Music/Downloaded Music/Artists/Sam Harris/The End of Faith - By Sam Harris - Audio Book/03 - In the Shadow of God.mp3
-/mnt/Music/Downloaded Music/Artists/Sam Harris/The End of Faith - By Sam Harris - Audio Book/04 - The Problem with Islam.mp3
-/mnt/Music/Downloaded Music/Artists/Sam Harris/The End of Faith - By Sam Harris - Audio Book/05 - West of Eden.mp3
-/mnt/Music/Downloaded Music/Artists/Sam Harris/The End of Faith - By Sam Harris - Audio Book/06 - A Science of Good and Evil.mp3
-/mnt/Music/Downloaded Music/Artists/Sam Harris/The End of Faith - By Sam Harris - Audio Book/07 - Experiments in Consciousness.mp3
-/mnt/Music/Downloaded Music/Artists/Sam Harris/The End of Faith - By Sam Harris - Audio Book/08 - Epilogue.mp3
 /mnt/Music/iTunes/iTunes Music/Samuel L. Jackson/Black Snake Moan Soundtrack/Alice Mae.mp3
 /mnt/Music/iTunes/iTunes Music/Samuel L. Jackson/Black Snake Moan Soundtrack/Black Snake Moan.mp3
 /mnt/Music/iTunes/iTunes Music/Samuel L. Jackson/Black Snake Moan Soundtrack/Stack-O-Lee.mp3
