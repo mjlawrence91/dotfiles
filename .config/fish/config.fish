@@ -22,20 +22,8 @@ set fish_function_path $fish_function_path "/usr/lib/python3.5/site-packages/pow
 source $HOME/.config/z-fish/z.fish
 source $HOME/.config/z-fish/z_complete.fish
 
-# Map ls command to something more useful
-alias ls  "ls -hl --color=auto"
-alias lsa "ls -hla --color=auto"
-
-# Git commands
-alias ga  "git add --all"
-alias gc  "git commit -m"
-alias gch "git checkout"
-alias gp  "git push"
-alias gpl "git pull"
-alias gs  "git status"
-
-# Alias to backup routine
-alias mjlbackup="/home/matt/.scripts/backup/mjl-backup.sh"
+# My defined aliases
+source $HOME/.config/fish/aliases.fish
 
 # Load Ranger rc.conf in Home directory
 set RANGER_LOAD_DEFAULT_RC "FALSE"
