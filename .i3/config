@@ -276,28 +276,7 @@ bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume 0 +5% 	#
 bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume 0 -5% 	# decrease sound volume
 bindsym XF86AudioMute 		 exec --no-startup-id pactl set-sink-mute 0 toggle 	# mute sound
 
-# Enable autolocking
-set $locker i3lock -i ~/.wallpapers/lock-screen.png
-exec --no-startup-id xautolock -time 20 -locker "$locker"
-
-# Define system operations mode
-set $mode_system System: (u) update, (l) lock, (e) logout, (r) reboot, (s) shutdown
-mode "$mode_system" {
-    bindsym u exec --no-startup-id urxvt -e yaourt -Syua, mode "default"
-    bindsym l exec --no-startup-id $locker, mode "default"
-    bindsym e exec --no-startup-id i3-msg exit, mode "default"
-    bindsym r exec --no-startup-id systemctl reboot, mode "default"
-    bindsym s exec --no-startup-id systemctl poweroff -i, mode "default"
-
-    # back to normal: Enter, Escape or F19
-    bindsym Return 		mode "default"
-    bindsym Escape 		mode "default"
-    bindsym XF86LaunchC mode "default"
-}
-
-# Bind power operations to F19 key
-bindsym XF86LaunchC mode "$mode_system"
-
+# Define music player mode
 set $mode_music Music: (s) spotify, (m) cmus
 mode "$mode_music" {
 	bindsym s exec --no-startup-id spotify, mode "default"
@@ -321,9 +300,28 @@ mode "$mode_music" {
     bindsym XF86Launch7 mode "default"
 }
 
-# Bind music operations to F18 key
+# Bind music operations to F16 key
 bindsym XF86Launch7 mode "$mode_music"
 
+# Define applications mode
+set $mode_apps Apps: (g) Chrome, (a) Atom, (s) Sublime, (c) Chromium
+mode "$mode_apps" {
+
+	bindsym g exec --no-startup-id google-chrome-stable, mode "default"
+	bindsym a exec --no-startup-id atom, 				 mode "default"
+	bindsym s exec --no-startup-id subl3,				 mode "default"
+	bindsym c exec --no-startup-id chromium, 			 mode "default"
+
+    # back to normal: Enter, Escape or F17
+    bindsym Return 		mode "default"
+    bindsym Escape		mode "default"
+    bindsym XF86Launch8 mode "default"
+}
+
+# Bind music operations to F1 key
+bindsym XF86Launch8 mode "$mode_apps"
+
+# Define wallpaper change mode
 set $mode_wallpaper Wallpaper: (c) Change, (l) Logo wallpaper, (n) No-logo wallpaper
 mode "$mode_wallpaper" {
 	bindsym c $fehrand,    mode "default"
@@ -338,6 +336,28 @@ mode "$mode_wallpaper" {
 
 # Bind wallpaper setting to F18 key
 bindsym XF86Launch9 mode "$mode_wallpaper"
+
+# Enable autolocking
+set $locker i3lock -i ~/.wallpapers/lock-screen.png
+exec --no-startup-id xautolock -time 20 -locker "$locker"
+
+# Define system operations mode
+set $mode_system System: (u) update, (l) lock, (e) logout, (r) reboot, (s) shutdown
+mode "$mode_system" {
+    bindsym u exec --no-startup-id urxvt -e yaourt -Syua, mode "default"
+    bindsym l exec --no-startup-id $locker, mode "default"
+    bindsym e exec --no-startup-id i3-msg exit, mode "default"
+    bindsym r exec --no-startup-id systemctl reboot, mode "default"
+    bindsym s exec --no-startup-id systemctl poweroff -i, mode "default"
+
+    # back to normal: Enter, Escape or F19
+    bindsym Return 		mode "default"
+    bindsym Escape 		mode "default"
+    bindsym XF86LaunchC mode "default"
+}
+
+# Bind power operations to F19 key
+bindsym XF86LaunchC mode "$mode_system"
 
 # Start daemons
 exec --no-startup-id nm-applet
