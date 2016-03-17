@@ -298,19 +298,22 @@ mode "$mode_system" {
 # Bind power operations to F19 key
 bindsym XF86LaunchC mode "$mode_system"
 
-set $mode_music Music: (s) spotify, (c) cmus
+set $mode_music Music: (s) spotify, (m) cmus
 mode "$mode_music" {
 	bindsym s exec --no-startup-id spotify, mode "default"
-	bindsym c exec --no-startup-id urxvt -e cmus, mode "default"
+	bindsym m exec --no-startup-id urxvt -e cmus, mode "default"
 
-	# Media player controls
-	bindsym F7 exec --no-startup-id cmus-remote -r
-	bindsym F8 exec --no-startup-id cmus-remote -u
-	bindsym F9 exec --no-startup-id cmus-remote -n
+	# cmus controls
+	bindsym z 	  exec --no-startup-id cmus-remote -r 	 # previous
+	bindsym c 	  exec --no-startup-id cmus-remote -u 	 # play/pause
+	bindsym b 	  exec --no-startup-id cmus-remote -n 	 # next
+	bindsym Left  exec --no-startup-id cmus-remote -k -5 # skip backward
+	bindsym Right exec --no-startup-id cmus-remote -k +5 # skip forward
 
-	# bindsym F7 exec --no-startup-id playerctl previous
-	# bindsym F8 exec --no-startup-id playerctl play-pause
-	# bindsym F9 exec --no-startup-id playerctl next
+	# Spotify controls
+	bindsym F7 exec --no-startup-id playerctl --player=spotify previous
+	bindsym F8 exec --no-startup-id playerctl --player=spotify play-pause
+	bindsym F9 exec --no-startup-id playerctl --player=spotify next
 
     # back to normal: Enter, Escape or F16
     bindsym Return 		mode "default"
