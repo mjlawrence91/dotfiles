@@ -8,7 +8,7 @@ alias gc  "git commit -m"
 alias gch "git checkout"
 alias gp  "git push"
 alias gpl "git pull"
-alias gr  "git remove --cached"
+alias gr  "git rm --cached"
 alias gs  "git status"
 
 # Alias to backup routine
