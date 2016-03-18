@@ -47,6 +47,7 @@ Dropbox/
 .config/cmus/autosave
 .config/cmus/cache
 .config/cmus/command-history
+.config/cmus/lib.pl
 .config/cmus/search-history
 .config/fish/fishd.matt-arch
 .config/fish/fish_history
