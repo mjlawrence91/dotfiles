@@ -35,6 +35,9 @@ Dropbox/
 .config/sublime-text-3/Index
 !.config/sublime-text-3/Packages/User
 .config/transmission-daemon/
+.config/transmission/resume/
+.config/transmission/torrents/
+.config/transmission/stats.json
 .config/vlc/
 .config/xfce4/
 .xsel.log
