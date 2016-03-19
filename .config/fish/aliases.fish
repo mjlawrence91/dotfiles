@@ -14,6 +14,13 @@ alias gs  "git status"
 # Alias to backup routine
 alias mjlbackup "/home/matt/.scripts/backup/mjl-backup.sh"
 
+# Aliases to common directories
+alias dls  "cd /mnt/Downloads"
+alias drop "cd ~/Dropbox"
+function kg
+	cd /mnt/KG/$argv[1]
+end
+
 # Aliases to edit system config files (root access)
 alias fstab		  "sudo nano /etc/fstab"
 alias grub-config "sudo nano /etc/default/grub"
