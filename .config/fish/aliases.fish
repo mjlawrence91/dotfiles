@@ -26,8 +26,8 @@ function mountfilmiso
 	sudo mount $argv[1] /mnt/dvd
 	vlc /mnt/dvd/VIDEO_TS
 end
-alias playfilmiso "vlc /mnt/dvd/VIDEO_TS"
 alias umountfilmiso "sudo umount /mnt/dvd"
+alias playfilmiso 	"vlc /mnt/dvd/VIDEO_TS"
 
 # Aliases to edit system config files (root access)
 alias fstab		  "sudo nano /etc/fstab"
