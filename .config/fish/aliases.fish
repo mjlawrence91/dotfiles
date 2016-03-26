@@ -21,6 +21,14 @@ function kg
 	cd /mnt/KG/$argv[1]
 end
 
+# Media aliases
+function mountfilmiso
+	sudo mount $argv[1] /mnt/dvd
+	vlc /mnt/dvd/VIDEO_TS
+end
+alias playfilmiso "vlc /mnt/dvd/VIDEO_TS"
+alias umountfilmiso "sudo umount /mnt/dvd"
+
 # Aliases to edit system config files (root access)
 alias fstab		  "sudo nano /etc/fstab"
 alias grub-config "sudo nano /etc/default/grub"
