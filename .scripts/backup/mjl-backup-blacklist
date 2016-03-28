@@ -1,10 +1,15 @@
 Backup
 Computer/Dropbox
 Computer/ISOs/*.iso
+Computer/Previous System Backups
+Computer/$RECYCLE.BIN
+Computer/System Volume Information
 Downloads
 KG/48736061ea163925b4
 KG/kgvideos-v2
 KG/plex
+KG/$RECYCLE.BIN
+KG/System Volume Information
 KG/transmission
 KG/*.exe
 dvd

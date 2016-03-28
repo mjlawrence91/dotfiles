@@ -2,12 +2,15 @@
 SCRIPTSDIR="$HOME/.scripts/backup"
 WHITELIST="$SCRIPTSDIR/mjl-backup-whitelist"
 BLACKLIST="$SCRIPTSDIR/mjl-backup-blacklist"
+BACKUPLOGNAME="Last backed up $(date +"%Y-%m-%d")"
 
 SRCDIR="/mnt/"
 BASEDESTDIR="/mnt/Backup"
 
-rm -rf ./*
+rm -rfv ./*
 rsync -av -P --stats --human-readable --include-from=$WHITELIST --exclude-from=$BLACKLIST $SRCDIR $BASEDESTDIR | pv -lep -s 3838
+touch $BASEDESTDIR/$BACKUPLOGNAME.txt
+echo $BACKUPLOGNAME > $BASEDESTDIR/$BACKUPLOGNAME.txt
 
 # NEWDIRNAME="$(date +"%Y-%m-%d")/"
 
