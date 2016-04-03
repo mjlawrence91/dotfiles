@@ -7,9 +7,6 @@ set -gx OMF_PATH "/home/matt/.local/share/omf"
 # Load oh-my-fish configuration.
 source $OMF_PATH/init.fish
 
-# Load pass completions into shell
-source /usr/share/fish/vendor_completions.d
-
 # Set locale correctly
 set -gx LANG "en_GB.utf8"
 set -gx LC_ALL "en_GB.utf8"

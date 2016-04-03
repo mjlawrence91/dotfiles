@@ -1,6 +1,6 @@
 # Map ls command to something more useful
-alias ls  "ls -hl --color=auto"
-alias lsa "ls -hla --color=auto"
+alias ls  "ls -hl --color=auto --group-directories-first"
+alias lsa "ls -hlA --color=auto --group-directories-first"
 
 # Git commands
 alias ga  "git add --all"
