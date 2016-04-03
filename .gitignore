@@ -57,6 +57,7 @@ Dropbox/
 !.config/gtk-2.0/gtkrc-2.0
 .config/gtk-2.0/gtkfilechooser.ini
 .config/ranger/bookmarks
+.config/ranger/history
 .config/ranger/tagged
 .dmrc
 .esd_auth
