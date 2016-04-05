@@ -9,10 +9,10 @@ Xft.lcdfilter: lcddefault
 
 ! urxvt settings
 URxvt.perl-ext-common: default,clipboard,url-select,keyboard-select
-URxvt.font:			   xft:Hack:size=10:antialias:false
-URxvt.boldFont:		   xft:Hack:size=10:antialias:false
-URxvt.italicFont:	   xft:Hack:size=10:antialias:false
-URxvt.boldItalicFont:  xft:Hack:size=10:antialias:false
+URxvt.font:			   xft:Essential PragmataPro:size=11:antialias:false
+URxvt.boldFont:		   xft:Essential PragmataPro:size=11:antialias:false
+URxvt.italicFont:	   xft:Essential PragmataPro:size=11:antialias:false
+URxvt.boldItalicFont:  xft:Essential PragmataPro:size=11:antialias:false
 URxvt.scrollBar: 	   false
 URxvt.letterSpace: 	   -1
 
