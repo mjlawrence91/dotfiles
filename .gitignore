@@ -22,6 +22,7 @@ Dropbox/
 .config/Trolltech.conf
 .config/autostart/
 .config/chromium/
+.config/configstore/
 .config/dconf/
 .config/google-chrome/
 .config/menus/
