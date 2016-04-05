@@ -233,11 +233,11 @@ set $bg-colour 				#c73b18
 set $inactive-bg-colour 	#2f343f
 set $text-colour 			#f3f4f5
 set $inactive-text-colour 	#676e7d
-set $urgent-bg-colour 		#ff0000
+set $urgent-bg-colour 		#ff000090
 
-set $bar-bg-colour 			#c73b18
-set $bar-inactive-bg-colour #1c2230
-set $bar-separator			#f3f4f5
+set $bar-bg-colour 			#c73b1890
+set $bar-inactive-bg-colour #1c223080
+set $bar-separator			#f3f4f575
 
 # Window colours (http://paletton.com)
 #							border 					background 				text
@@ -251,7 +251,7 @@ bar {
 	strip_workspace_numbers yes
 	status_command ~/.scripts/conkyi3.sh
 	# status_command i3blocks -c ~/.i3/i3blocks.conf
-	i3bar_command i3bar
+	i3bar_command i3bar -t
 	position top
 	height 24
 
@@ -266,7 +266,7 @@ bar {
 		inactive_workspace 	$bar-inactive-bg-colour $bar-inactive-bg-colour $inactive-text-colour
 		urgent_workspace 	$urgent-bg-colour		$urgent-bg-colour		$text-colour
 
-		statusline #ffffff
+		statusline #ffffff75
 	}
 
 }
