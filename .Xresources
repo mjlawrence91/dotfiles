@@ -33,26 +33,30 @@ URxvt.clipboard.pastecmd: 	  xsel -ob
 ! urxvt: colour schemes
 URxvt.depth: 32
 
-#include "/home/matt/.config/urxvt/Seti.xrdb"
-!#include "/home/matt/.config/urxvt/MaterialDark.xrdb"
+#include "/home/matt/.config/urxvt/Gooey.base16.xrdb"
+!#include "/home/matt/.config/urxvt/Seti.base16.xrdb"
 
-URxvt*color0:       Ansi_0_Color
-URxvt*color1:       Ansi_1_Color
-URxvt*color2:       Ansi_2_Color
-URxvt*color3:       Ansi_3_Color
-URxvt*color4:       Ansi_4_Color
-URxvt*color5:       Ansi_5_Color
-URxvt*color6:       Ansi_6_Color
-URxvt*color7:       Ansi_7_Color
-URxvt*color8:       Ansi_8_Color
-URxvt*color9:       Ansi_9_Color
-URxvt*color10:      Ansi_10_Color
-URxvt*color11:      Ansi_11_Color
-URxvt*color12:      Ansi_12_Color
-URxvt*color13:      Ansi_13_Color
-URxvt*color14:      Ansi_14_Color
-URxvt*color15:      Ansi_15_Color
-URxvt*colorBD:      Bold_Color
-URxvt*background:   Background_Color
-URxvt*foreground:   Foreground_Color
-URxvt*cursorColor:  Cursor_Color
+!#include "/home/matt/.config/urxvt/Seti.xrdb"
+!#include "/home/matt/.config/urxvt/MaterialDark.xrdb"
+!#include "/home/matt/.config/urxvt/Gooey.xrdb"
+
+!URxvt*color0:       Ansi_0_Color
+!URxvt*color1:       Ansi_1_Color
+!URxvt*color2:       Ansi_2_Color
+!URxvt*color3:       Ansi_3_Color
+!URxvt*color4:       Ansi_4_Color
+!URxvt*color5:       Ansi_5_Color
+!URxvt*color6:       Ansi_6_Color
+!URxvt*color7:       Ansi_7_Color
+!URxvt*color8:       Ansi_8_Color
+!URxvt*color9:       Ansi_9_Color
+!URxvt*color10:      Ansi_10_Color
+!URxvt*color11:      Ansi_11_Color
+!URxvt*color12:      Ansi_12_Color
+!URxvt*color13:      Ansi_13_Color
+!URxvt*color14:      Ansi_14_Color
+!URxvt*color15:      Ansi_15_Color
+!URxvt*colorBD:      Bold_Color
+!URxvt*background:   Background_Color
+!URxvt*foreground:   Foreground_Color
+!URxvt*cursorColor:  Cursor_Color
