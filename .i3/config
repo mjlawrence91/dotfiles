@@ -26,10 +26,10 @@ font pango:Roboto 10
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec urxvt
+bindsym $mod+Return exec --no-startup-id urxvt
 
 # Start a new file manager window
-bindsym $mod+Shift+Return exec urxvt -e ranger
+bindsym $mod+Shift+Return exec --no-startup-id urxvt -e ranger
 bindsym $mod+n exec nautilus
 
 # kill focused window
@@ -318,7 +318,7 @@ mode "$mode_apps" {
     bindsym XF86Launch8 mode "default"
 }
 
-# Bind music operations to F1 key
+# Bind music operations to F17 key
 bindsym XF86Launch8 mode "$mode_apps"
 
 # Define wallpaper change mode
