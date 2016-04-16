@@ -1,9 +1,9 @@
 ! Base16 Seti UI
-! Scheme:
+! Scheme: 
 
-URxvt*background:                     [75]#151718
+URxvt*background:                     #151718
 URxvt*foreground:                     #d6d6d6
-URxvt*cursorColor:                    #e3bf21
+URxvt*cursorColor:                    #d6d6d6
 
 URxvt*scrollColor:                    #d6d6d6
 URxvt*highlightColor:                 #3B758C
