@@ -30,6 +30,9 @@ end
 alias umountfilmiso "sudo umount /mnt/dvd"
 alias playfilmiso 	"vlc /mnt/dvd/VIDEO_TS"
 
+# App aliases
+alias ya "yaourt --nameonly --color --pager"
+
 # Aliases to edit system config files (root access)
 alias fstab		  "sudo nano /etc/fstab"
 alias grub-config "sudo nano /etc/default/grub"
