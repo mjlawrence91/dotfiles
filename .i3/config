@@ -78,6 +78,9 @@ bindsym $mod+h split h
 # split in vertical orientation
 bindsym $mod+v split v
 
+# toggle split orientations
+bindsym $mod+t split toggle
+
 # enter fullscreen mode for the focused container
 bindsym $mod+f fullscreen toggle
 
@@ -217,56 +220,61 @@ bindsym $mod+r mode "resize"
 #-------------------------
 
 for_window [class="^.*"] border pixel 2
-for_window [class="xfce4-notifyd"] border none
-gaps inner 15
+gaps inner 26
 gaps outer 0
 smart_borders yes
 hide_edge_borders both
 
-#--------------------------------------
+#-----------------------------------------
 # COLOURS
 #
-# Note: Change bg-colour to change border colour as well
-#--------------------------------------
+# Note: Use base16-builder to create theme
+#-----------------------------------------
 
-set $bg-colour 				#c73b18
-set $inactive-bg-colour 	#2f343f
-set $text-colour 			#f3f4f5
-set $inactive-text-colour 	#676e7d
-set $urgent-bg-colour 		#ff000090
+set $base00 #101218
+set $base01 #1f222d80
+set $base02 #252936
+set $base03 #7780a175
+set $base04 #C0C5CE
+set $base05 #d1d4e0
+set $base06 #C9CCDB
+set $base07 #ffffff
+set $base08 #ee829f
+set $base09 #f99170
+set $base0A #ffefcc
+set $base0B #a5ffe1
+set $base0C #97e0ff90
+set $base0D #97bbf7
+set $base0E #c0b7f9
+set $base0F #fcc09e
 
-set $bar-bg-colour 			#c73b1890
-set $bar-inactive-bg-colour #1c223080
-set $bar-separator			#f3f4f575
-
-# Window colours (http://paletton.com)
-#							border 					background 				text
-client.focused 				$bg-colour 				$bg-colour 				$text-colour
-client.unfocused			$inactive-bg-colour		$inactive-bg-colour 	$inactive-text-colour
-client.focused_inactive		$inactive-bg-colour 	$inactive-bg-colour 	$inactive-text-colour
-client.urgent 				$urgent-bg-colour		$urgent-bg-colour		$text-colour
+# Window colours
+client.focused 			$base0D $base0D $base00 $base01
+client.focused_inactive $base02 $base02 $base03 $base01
+client.unfocused 		$base01 $base01 $base03 $base01
+client.urgent 			$base02 $base08 $base07 $base08
 
 # Start i3bar to display a workspace bar (plus the system information i3status finds out, if available)
 bar {
 	strip_workspace_numbers yes
 	status_command ~/.scripts/conkyi3.sh
-	# status_command i3blocks -c ~/.i3/i3blocks.conf
 	i3bar_command i3bar -t
 	position top
 	height 24
+	mode hide
 
 	font pango:FontAwesome, System San Francisco Display 9
 
 	colors {
-		background $bar-inactive-bg-colour
-		separator $bar-separator
+		background $base01
+		separator $base03
+		statusline $base05
 
-		#					border 					background 				text
-		focused_workspace 	$bar-bg-colour			$bar-bg-colour			$text-colour
-		inactive_workspace 	$bar-inactive-bg-colour $bar-inactive-bg-colour $inactive-text-colour
-		urgent_workspace 	$urgent-bg-colour		$urgent-bg-colour		$text-colour
-
-		statusline #ffffff75
+		#				   border  bg      text
+		focused_workspace  $base0C $base0D $base00
+		active_workspace   $base02 $base02 $base07
+		inactive_workspace $base01 $base01 $base03
+		urgent_workspace   $base08 $base08 $base07
 	}
 }
 
