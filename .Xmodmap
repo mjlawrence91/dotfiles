@@ -1,7 +1,0 @@
-keycode 49 = grave asciitilde
-keycode 94 = section plusminus
-
-
-keycode 104 = Return NoSymbol Return
-keycode 197 = XF86LaunchC
-
