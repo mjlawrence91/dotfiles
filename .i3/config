@@ -49,27 +49,27 @@ bindsym $mod+d exec rofi -show run -config ~/.config/rofi/rofi.conf
 # bindsym $mod+d exec rofi -combi 'window,run' -lines 3 -eh 2
 
 # change focus
-bindsym $mod+j focus left
-bindsym $mod+k focus down
-bindsym $mod+l focus up
-bindsym $mod+semicolon focus right
+bindsym $mod+j 			focus left
+bindsym $mod+k 			focus down
+bindsym $mod+l 			focus up
+bindsym $mod+semicolon  focus right
 
 # alternatively, you can use the cursor keys:
-bindsym $mod+Left focus left
-bindsym $mod+Down focus down
-bindsym $mod+Up focus up
-bindsym $mod+Right focus right
+bindsym $mod+Left 	focus left
+bindsym $mod+Down 	focus down
+bindsym $mod+Up 	focus up
+bindsym $mod+Right  focus right
 
 # move focused window
-bindsym $mod+Shift+j move left
-bindsym $mod+Shift+k move down
-bindsym $mod+Shift+l move up
+bindsym $mod+Shift+j 		 move left
+bindsym $mod+Shift+k 		 move down
+bindsym $mod+Shift+l 		 move up
 bindsym $mod+Shift+semicolon move right
 
 # alternatively, you can use the cursor keys:
-bindsym $mod+Shift+Left move left
-bindsym $mod+Shift+Down move down
-bindsym $mod+Shift+Up move up
+bindsym $mod+Shift+Left  move left
+bindsym $mod+Shift+Down  move down
+bindsym $mod+Shift+Up 	 move up
 bindsym $mod+Shift+Right move right
 
 # split in horizontal orientation
@@ -95,20 +95,14 @@ bindsym $mod+Shift+space floating toggle
 # change focus between tiling / floating windows
 bindsym $mod+space focus mode_toggle
 
-# focus the parent container
-# bindsym $mod+a focus parent
-
-# focus the child container
-#bindsym $mod+d focus child
-
 # Define workspace names
-# 1. fa-chrome icon
-# 2. fa-list icon
-# 3. fa-code icon
-# 4. fa-video-camera icon
-# 5. fa-folder-open-o icon
-# 6. fa-dot-circle-o icon
-# 7. fa-music icon
+# 1. 	 fa-chrome icon
+# 2. 	 fa-list icon
+# 3. 	 fa-code icon
+# 4. 	 fa-video-camera icon
+# 5. 	 fa-folder-open-o icon
+# 6. 	 fa-dot-circle-o icon
+# 7. 	 fa-music icon
 # Other. fa-terminal icon
 set $wschrome 	"1:"
 set $wsatom 	"2:"
@@ -197,16 +191,10 @@ mode "resize" {
 	# Pressing right will grow the window’s width.
 	# Pressing up will shrink the window’s height.
 	# Pressing down will grow the window’s height.
-	bindsym j resize shrink width 10 px or 10 ppt
-	bindsym k resize grow height 10 px or 10 ppt
-	bindsym l resize shrink height 10 px or 10 ppt
-	bindsym semicolon resize grow width 10 px or 10 ppt
-
-	# same bindings, but for the arrow keys
-	bindsym Left resize shrink width 10 px or 10 ppt
-	bindsym Down resize grow height 10 px or 10 ppt
-	bindsym Up resize shrink height 10 px or 10 ppt
-	bindsym Right resize grow width 10 px or 10 ppt
+	bindsym Left  resize shrink width  10 px or 10 ppt
+	bindsym Down  resize grow   height 10 px or 10 ppt
+	bindsym Up    resize shrink height 10 px or 10 ppt
+	bindsym Right resize grow   width  10 px or 10 ppt
 
 	# back to normal: Enter or Escape
 	bindsym Return mode "default"
@@ -218,7 +206,6 @@ bindsym $mod+r mode "resize"
 #--------------------------
 # Gap Settings
 #-------------------------
-
 for_window [class="^.*"] border pixel 2
 gaps inner 26
 gaps outer 0
@@ -230,7 +217,6 @@ hide_edge_borders both
 #
 # Note: Use base16-builder to create theme
 #-----------------------------------------
-
 set $base00 #101218
 set $base01 #1f222d80
 set $base02 #252936
@@ -267,7 +253,7 @@ bar {
 
 	colors {
 		background $base01
-		separator $base03
+		separator  $base03
 		statusline $base05
 
 		#				   border  bg      text
@@ -298,18 +284,18 @@ mode "$mode_music" {
 	bindsym Right exec --no-startup-id cmus-remote -k +5 # skip forward
 
 	# Spotify controls
-	bindsym F7 exec --no-startup-id playerctl --player=spotify previous
-	bindsym F8 exec --no-startup-id playerctl --player=spotify play-pause
-	bindsym F9 exec --no-startup-id playerctl --player=spotify next
+	bindsym F6 exec --no-startup-id playerctl --player=spotify previous
+	bindsym F7 exec --no-startup-id playerctl --player=spotify play-pause
+	bindsym F8 exec --no-startup-id playerctl --player=spotify next
 
-    # back to normal: Enter, Escape or F16
-    bindsym Return 		mode "default"
-    bindsym Escape		mode "default"
-    bindsym XF86Launch7 mode "default"
+    # back to normal: Enter, Escape or F9
+    bindsym Return mode "default"
+    bindsym Escape mode "default"
+    bindsym F9	   mode "default"
 }
 
-# Bind music operations to F16 key
-bindsym XF86Launch7 mode "$mode_music"
+# Bind music operations to F9 key
+bindsym F9 mode "$mode_music"
 
 # Define applications mode
 set $mode_apps Apps: (g) Chrome, (a) Atom, (s) Sublime, (c) Chromium
@@ -320,14 +306,14 @@ mode "$mode_apps" {
 	bindsym s exec --no-startup-id subl3,				 mode "default"
 	bindsym c exec --no-startup-id chromium, 			 mode "default"
 
-    # back to normal: Enter, Escape or F17
-    bindsym Return 		mode "default"
-    bindsym Escape		mode "default"
-    bindsym XF86Launch8 mode "default"
+    # back to normal: Enter, Escape or F10
+    bindsym Return 	mode "default"
+    bindsym Escape	mode "default"
+    bindsym F10 	mode "default"
 }
 
-# Bind music operations to F17 key
-bindsym XF86Launch8 mode "$mode_apps"
+# Bind music operations to F10 key
+bindsym F10 mode "$mode_apps"
 
 # Define wallpaper change mode
 set $mode_wallpaper Wallpaper: (c) Change, (l) Logo wallpaper, (n) No-logo wallpaper
@@ -336,14 +322,14 @@ mode "$mode_wallpaper" {
 	bindsym l $feh $stdwp, mode "default"
 	bindsym n $feh $altwp, mode "default"
 
-	# back to normal: Enter, Escape or F18
-	bindsym Return 		mode "default"
-	bindsym Escape 		mode "default"
-	bindsym XF86Launch9 mode "default"
+	# back to normal: Enter, Escape or F11
+	bindsym Return	mode "default"
+	bindsym Escape	mode "default"
+	bindsym F11 	mode "default"
 }
 
-# Bind wallpaper setting to F18 key
-bindsym XF86Launch9 mode "$mode_wallpaper"
+# Bind wallpaper setting to F11 key
+bindsym F11 mode "$mode_wallpaper"
 
 # Enable autolocking
 set $locker i3lock -i ~/.wallpapers/lock-screen.png
@@ -353,20 +339,20 @@ exec --no-startup-id xautolock -time 20 -locker "$locker"
 set $mode_system System: (u) update, (l) lock, (e) logout, (r) reboot, (s) shutdown
 mode "$mode_system" {
     bindsym u exec --no-startup-id urxvt -e yaourt -Syua, mode "default"
-    bindsym l exec --no-startup-id $locker, mode "default"
-    bindsym e exec --no-startup-id i3-msg exit, mode "default"
-    bindsym r exec --no-startup-id systemctl reboot, mode "default"
+    bindsym l exec --no-startup-id $locker, 			  mode "default"
+    bindsym e exec --no-startup-id i3-msg exit, 		  mode "default"
+    bindsym r exec --no-startup-id systemctl reboot, 	  mode "default"
     bindsym s exec --no-startup-id systemctl poweroff -i, mode "default"
     # bindsym s exec --no-startup-id ~/.scripts/shutdown.sh, mode "default"
 
-    # back to normal: Enter, Escape or F19
-    bindsym Return 		mode "default"
-    bindsym Escape 		mode "default"
-    bindsym XF86LaunchC mode "default"
+    # back to normal: Enter, Escape or F12
+    bindsym Return 	mode "default"
+    bindsym Escape 	mode "default"
+    bindsym F12 	mode "default"
 }
 
-# Bind power operations to F19 key
-bindsym XF86LaunchC mode "$mode_system"
+# Bind power operations to F12 key
+bindsym F12 mode "$mode_system"
 
 # Start daemons
 exec --no-startup-id nm-applet
