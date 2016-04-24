@@ -207,7 +207,7 @@ bindsym $mod+r mode "resize"
 # Gap Settings
 #-------------------------
 for_window [class="^.*"] border pixel 2
-gaps inner 26
+gaps inner 15
 gaps outer 0
 smart_borders yes
 hide_edge_borders both
@@ -218,9 +218,9 @@ hide_edge_borders both
 # Note: Use base16-builder to create theme
 #-----------------------------------------
 set $base00 #101218
-set $base01 #1f222d80
+set $base01 #1f222d00
 set $base02 #252936
-set $base03 #7780a175
+set $base03 #7780a1
 set $base04 #C0C5CE
 set $base05 #d1d4e0
 set $base06 #C9CCDB
@@ -245,9 +245,9 @@ bar {
 	strip_workspace_numbers yes
 	status_command ~/.scripts/conkyi3.sh
 	i3bar_command i3bar -t
+	# i3bar_command yabar ~/.config/yabar/yabar.conf
 	position top
 	height 24
-	mode hide
 
 	font pango:FontAwesome, System San Francisco Display 9
 
