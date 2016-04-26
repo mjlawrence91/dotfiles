@@ -1,9 +1,10 @@
 # Directories
 builds/
 Desktop/
+!Desktop/TODOs
 Downloads/
 Dropbox/
-TODOs/
+!Dropbox/*.md
 .atom/
 .cache/
 .dbus/
@@ -22,6 +23,7 @@ TODOs/
 .config/Atom/
 .config/Trolltech.conf
 .config/autostart/
+.config/cef_user_data
 .config/chromium/
 .config/configstore/
 .config/dconf/
@@ -43,7 +45,6 @@ TODOs/
 .config/vlc/
 .config/xfce4/
 .config/yabar/
-.xsel.log
 
 # Files
 .bash_history
@@ -69,7 +70,7 @@ TODOs/
 .git-credentials
 .lesshst
 .Xauthority
-.xsel-log
+.xsel.log
 .xsession-errors
 .xsession-errors.old
 .z
