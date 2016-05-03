@@ -19,6 +19,7 @@ Dropbox/
 .password-store/
 .pki/
 .screenshots/
+.ssh/
 
 .config/Atom/
 .config/Trolltech.conf
