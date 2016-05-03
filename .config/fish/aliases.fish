@@ -7,11 +7,20 @@ alias ga  "git add --all"
 alias gc  "git commit -m"
 alias gch "git checkout"
 alias gcl "git clone"
-alias gd  "git diff"
+alias gd  "git diff HEAD"
 alias gp  "git push"
 alias gpl "git pull"
 alias gr  "git rm --cached"
 alias gs  "git status"
+
+# NPM commands
+alias ni  "npm install"
+alias nig "sudo npm install -g"
+alias nis "npm install --save"
+alias nid "npm install --save-dev"
+alias np  "npm prune"
+alias nr  "npm run $argv[1]"
+alias nrt "npm run test"
 
 # Alias to backup routine
 alias mjlbackup "/home/matt/.scripts/backup/mjl-backup.sh"
