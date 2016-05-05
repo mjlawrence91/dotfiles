@@ -165,6 +165,7 @@ for_window [class="google-chrome"] focus
 for_window [class="Atom"] focus
 for_window [class="Spotify"] focus
 for_window [class="chromium"] focus
+bindsym $mod+Escape [class="chromium"] kill # Kill only Chromium windows
 
 # Switch back and forth using same workspace shortcut
 workspace_auto_back_and_forth yes
