@@ -9,6 +9,7 @@
 #
 # Please see http://i3wm.org/docs/userguide.html for a complete reference!
 set $mod Mod4
+set $term termite
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
@@ -25,10 +26,10 @@ font pango:System San Francisco Display 9
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec --no-startup-id urxvt
+bindsym $mod+Return exec --no-startup-id $term
 
 # Start a new file manager window
-bindsym $mod+Shift+Return exec --no-startup-id urxvt -e ranger
+bindsym $mod+Shift+Return exec --no-startup-id $term -e ranger
 bindsym $mod+n exec nautilus
 
 # kill focused window
@@ -271,7 +272,7 @@ set $mode_music Music: (s) spotify, (m) cmus
 mode "$mode_music" {
 	# Launch apps
 	bindsym s exec --no-startup-id spotifyfix, mode "default"
-	bindsym m exec --no-startup-id urxvt -e cmus, mode "default"
+	bindsym m exec --no-startup-id $term -e cmus, mode "default"
 
 	# cmus controls
 	bindsym z 	  exec --no-startup-id cmus-remote -r 	 # previous
@@ -335,7 +336,7 @@ exec --no-startup-id xautolock -time 20 -locker "$locker"
 # Define system operations mode
 set $mode_system System: (u) update, (l) lock, (e) logout, (r) reboot, (s) shutdown
 mode "$mode_system" {
-    bindsym u exec --no-startup-id urxvt -e yaourt -Syua, mode "default"
+    bindsym u exec --no-startup-id $term -e yaourt -Syua, mode "default"
     bindsym l exec --no-startup-id $locker, 			  mode "default"
     bindsym e exec --no-startup-id i3-msg exit, 		  mode "default"
     bindsym r exec --no-startup-id systemctl reboot, 	  mode "default"
@@ -353,7 +354,7 @@ bindsym F12 mode "$mode_system"
 # Start daemons
 exec --no-startup-id nm-applet
 exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
-exec --no-startup-id compton -bcf --config ~/.config/compton/compton.conf
+exec --no-startup-id compton -b --config ~/.config/compton/compton.conf
 exec --no-startup-id dunst -config ~/.config/dunst/dunstrc
 exec --no-startup-id transmission-gtk -m
 exec --no-startup-id dropbox
