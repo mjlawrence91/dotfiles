@@ -1,0 +1,8 @@
+neobundle.vim
+vim-airline
+vim-airline-themes
+vim-commentary
+vim-gitgutter
+vim-markdown
+vim-surround
+vim-table-mode
