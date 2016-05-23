@@ -31,6 +31,8 @@ Dropbox/
 .config/google-chrome/
 .config/menus/
 .config/nautilus/
+.config/nvim/bundle/
+.config/nvim/temp/
 .config/pulse/
 .config/spotify/
 .config/sublime-text-3/Cache/
@@ -61,6 +63,7 @@ Dropbox/
 .config/fish/fish_history
 !.config/gtk-2.0/gtkrc-2.0
 .config/gtk-2.0/gtkfilechooser.ini
+.config/nvim/.init.vim-rplugin~
 .config/ranger/bookmarks
 .config/ranger/history
 .config/ranger/tagged
@@ -70,6 +73,8 @@ Dropbox/
 .gitconfig
 .git-credentials
 .lesshst
+.nvidia-settings-rc
+.viminfo
 .Xauthority
 .xsel.log
 .xsession-errors
