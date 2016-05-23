@@ -336,11 +336,15 @@ exec --no-startup-id xautolock -time 20 -locker "$locker"
 # Define system operations mode
 set $mode_system System: (u) update, (l) lock, (e) logout, (r) reboot, (s) shutdown
 mode "$mode_system" {
-    bindsym u exec --no-startup-id $term -e yaourt -Syua, mode "default"
-    bindsym l exec --no-startup-id $locker, 			  mode "default"
-    bindsym e exec --no-startup-id i3-msg exit, 		  mode "default"
-    bindsym r exec --no-startup-id systemctl reboot, 	  mode "default"
-    bindsym s exec --no-startup-id systemctl poweroff -i, mode "default"
+
+	# NOTE: starting yaourt in this way with urxvt requires removal of quote marks, ie:
+    # bindsym u exec --no-startup-id $term -e yaourt -Syua, mode "default"
+
+    bindsym u exec --no-startup-id $term -e "yaourt -Syua", mode "default"
+    bindsym l exec --no-startup-id $locker, 			  	mode "default"
+    bindsym e exec --no-startup-id i3-msg exit, 		  	mode "default"
+    bindsym r exec --no-startup-id systemctl reboot, 	  	mode "default"
+    bindsym s exec --no-startup-id systemctl poweroff -i, 	mode "default"
 
     # back to normal: Enter, Escape or F12
     bindsym Return 	mode "default"
