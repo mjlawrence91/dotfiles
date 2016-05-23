@@ -1,3 +1,6 @@
+# Set 256 colors in shell.
+set -Ux TERM "xterm-256color"
+
 # Path to Oh My Fish install.
 set -gx OMF_PATH "/home/matt/.local/share/omf"
 
