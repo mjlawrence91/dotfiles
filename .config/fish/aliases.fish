@@ -14,13 +14,18 @@ alias gr  "git rm --cached"
 alias gs  "git status"
 
 # NPM commands
-alias ni  "npm install"
-alias nig "sudo npm install -g"
-alias nis "npm install --save"
-alias nid "npm install --save-dev"
-alias np  "npm prune"
-alias nr  "npm run $argv[1]"
-alias nrt "npm run test"
+alias ni   "npm install"
+alias nig  "npm install -g"
+alias nis  "npm install --save"
+alias nid  "npm install --save-dev"
+alias np   "npm prune"
+alias nrt  "npm run test"
+alias nrwt "npm run watch:test"
+alias nrs  "npm run start"
+
+function nr
+    npm run $argv[1]
+end
 
 # Alias to backup routine
 alias mjlbackup "/home/matt/.scripts/backup/mjl-backup.sh"
@@ -42,6 +47,16 @@ alias playfilmiso 	"vlc /mnt/dvd/VIDEO_TS"
 
 # App aliases
 alias ya "yaourt --nameonly --color --pager"
+
+# Aliases to edit config files
+set DOTFILES 		"~"
+alias v				"nvim"
+alias vinit			"cd $DOTFILES; and v .config/nvim/init.vim"
+alias vbundle		"cd $DOTFILES; and v .config/nvim/bundle.vim"
+alias zshrc			"v $DOTFILES/.zshrc; and source ~/.zshrc"
+alias zaliases		"v $DOTFILES/.aliases.zsh; and source ~/.zshrc"
+alias fishconfig	"v $DOTFILES/.config/fish/config.fish; and source ~/.config/fish/config.fish"
+alias fishaliases	"v $DOTFILES/.config/fish/aliases.fish; and source ~/.config/fish/aliases.fish"
 
 # Aliases to edit system config files (root access)
 alias fstab		  "sudo nano /etc/fstab"
