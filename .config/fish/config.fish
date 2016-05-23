@@ -4,23 +4,12 @@ set -Ux TERM "xterm-256color"
 # Path to Oh My Fish install.
 set -gx OMF_PATH "/home/matt/.local/share/omf"
 
-# Customize Oh My Fish configuration path.
-#set -gx OMF_CONFIG "/home/matt/.config/omf"
-
 # Load oh-my-fish configuration.
 source $OMF_PATH/init.fish
 
 # Set locale correctly
 set -gx LANG "en_GB.utf8"
 set -gx LC_ALL "en_GB.utf8"
-
-# Load powerline
-set fish_function_path $fish_function_path "/usr/lib/python3.5/site-packages/powerline/bindings/fish"
-#powerline-setup
-
-# Load z into shell
-source $HOME/.config/z-fish/z.fish
-source $HOME/.config/z-fish/z_complete.fish
 
 # My defined aliases
 source $HOME/.config/fish/aliases.fish
