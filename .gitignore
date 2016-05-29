@@ -5,6 +5,7 @@ Desktop/
 Downloads/
 Dropbox/
 !Dropbox/*.md
+.antigen/
 .atom/
 .cache/
 .dbus/
@@ -20,6 +21,7 @@ Dropbox/
 .pki/
 .screenshots/
 .ssh/
+.tldr/
 
 .config/Atom/
 .config/Trolltech.conf
@@ -80,5 +82,7 @@ Dropbox/
 .xsession-errors
 .xsession-errors.old
 .z
+.zcompdump
+.zsh_history
 dotfiles.sublime-project
 dotfiles.sublime-workspace
