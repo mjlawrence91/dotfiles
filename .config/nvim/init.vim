@@ -84,3 +84,7 @@ vnoremap > >gv " Indent right
 
 let g:airline_powerline_fonts=1
 let g:airline_theme='base16'
+
+hi Normal ctermbg=none
+hi NonText ctermbg=none
+
