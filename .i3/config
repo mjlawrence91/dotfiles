@@ -243,8 +243,10 @@ client.urgent 			$base02 $base08 $base07 $base08
 # Start i3bar to display a workspace bar (plus the system information i3status finds out, if available)
 bar {
 	i3bar_command i3bar -t
-	status_command ~/.scripts/conkyi3.sh
-	font pango:FontAwesome, System San Francisco Display 9
+	status_command i3blocks -c ~/.i3/i3blocks.conf
+	# status_command ~/.scripts/conkyi3.sh
+	# font pango:FontAwesome, System San Francisco Display 9
+	font pango:FontAwesome, Cantarell 9
 	position top
 	height 24
 	strip_workspace_numbers yes
@@ -334,17 +336,17 @@ set $locker i3lock -i ~/.wallpapers/lock-screen.png
 exec --no-startup-id xautolock -time 20 -locker "$locker"
 
 # Define system operations mode
-set $mode_system System: (u) update, (l) lock, (e) logout, (r) reboot, (s) shutdown
+set $mode_system System: (u) update, (l) lock, (E) logout, (R) reboot, (S) shutdown
 mode "$mode_system" {
 
 	# NOTE: starting yaourt in this way with urxvt requires removal of quote marks, ie:
     # bindsym u exec --no-startup-id $term -e yaourt -Syua, mode "default"
 
-    bindsym u exec --no-startup-id $term -e "yaourt -Syua", mode "default"
-    bindsym l exec --no-startup-id $locker, 			  	mode "default"
-    bindsym e exec --no-startup-id i3-msg exit, 		  	mode "default"
-    bindsym r exec --no-startup-id systemctl reboot, 	  	mode "default"
-    bindsym s exec --no-startup-id systemctl poweroff -i, 	mode "default"
+    bindsym u 		exec --no-startup-id $term -e "yaourt -Syua", 	mode "default"
+    bindsym l 		exec --no-startup-id $locker, 			  		mode "default"
+    bindsym Shift+e	exec --no-startup-id i3-msg exit, 		  		mode "default"
+    bindsym Shift+r exec --no-startup-id systemctl reboot, 	  		mode "default"
+    bindsym Shift+s exec --no-startup-id systemctl poweroff -i, 	mode "default"
 
     # back to normal: Enter, Escape or F12
     bindsym Return 	mode "default"
