@@ -30,6 +30,7 @@ Dropbox/
 .config/chromium/
 .config/configstore/
 .config/dconf/
+.config/ghb/
 .config/google-chrome/
 .config/menus/
 .config/nautilus/
