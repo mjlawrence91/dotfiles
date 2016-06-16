@@ -88,3 +88,7 @@ let g:airline_theme='base16'
 hi Normal ctermbg=none
 hi NonText ctermbg=none
 
+" Disable Markdown folding
+if neobundle#is_installed('vim-markdown')
+    let g:vim_markdown_folding_disabled = 1
+endif
