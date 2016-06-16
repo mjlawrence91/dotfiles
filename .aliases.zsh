@@ -17,7 +17,7 @@ alias gs="git status"
 # NPM commands
 alias ni="npm install"
 alias nid="npm install --save-dev"
-alias nig="npm install --global"
+alias nig="sudo npm install --global"
 alias nis="npm install --save"
 alias np="npm prune"
 alias nr="npm run $1"
