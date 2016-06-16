@@ -367,5 +367,3 @@ exec --no-startup-id dropbox
 exec --no-startup-id pamac-tray
 exec --no-startup-id feh --bg-fill $stdwp
 
-# Open common applications
-exec --no-startup-id atom
