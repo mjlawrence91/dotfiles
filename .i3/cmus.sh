@@ -23,11 +23,11 @@ else
         title=$(echo "$Cmus_remote" | grep -w title -m 1 | cut -d ' ' -f 3- )
         artist=$(echo "$Cmus_remote" | grep -w artist -m 1 | cut -d ' ' -f 3- )
         album=$(echo "$Cmus_remote" | grep -w album -m 1 | cut -d ' ' -f 3- )
-        Cur_song="$title - $artist ($album)"
+        Cur_song=" $title - $artist ($album)"
 
         echo -e $Cur_song
     elif [ $1 == "-H" ]; then
-        echo -e $(echo "$Cmus_remote" | grep -w status| cut -d ' ' -f 2- )
+        echo -e $(echo "$Cmus_remote" | grep -w status | cut -d ' ' -f 2- )
     else
         cmus-remote $1
         Cur_song=$(cmus-remote -Q | grep tag | head -n 3 | sort -r | cut -d ' ' -f 3- )

@@ -43,4 +43,6 @@ album=$(echo -e "$metadata" \
 | grep "album|" \
 | cut -d '|' -f 2- )
 
-echo -e "$title - $artist ($album)"
+if [ ! -z "$title" -a "$title" != " " ]; then
+    echo " $title - $artist ($album)"
+fi
