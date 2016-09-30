@@ -246,7 +246,8 @@ bar {
 	status_command i3blocks -c ~/.i3/i3blocks.conf
 	# status_command ~/.scripts/conkyi3.sh
 	# font pango:FontAwesome, System San Francisco Display 9
-	font pango:FontAwesome, Cantarell 9
+	# font pango:FontAwesome, Cantarell 9
+	font pango:FontAwesome, Roboto Mono for Powerline 10  
 	position top
 	height 24
 	strip_workspace_numbers yes
@@ -342,7 +343,7 @@ mode "$mode_system" {
 	# NOTE: starting yaourt in this way with urxvt requires removal of quote marks, ie:
     # bindsym u exec --no-startup-id $term -e yaourt -Syua, mode "default"
 
-    bindsym u 		exec --no-startup-id $term -e "yaourt -Syua", 	mode "default"
+    bindsym u 		exec --no-startup-id $term -e "yaourt -Syyua", 	mode "default"
     bindsym l 		exec --no-startup-id $locker, 			  		mode "default"
     bindsym Shift+e	exec --no-startup-id i3-msg exit, 		  		mode "default"
     bindsym Shift+r exec --no-startup-id systemctl reboot, 	  		mode "default"

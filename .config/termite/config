@@ -1,6 +1,6 @@
 [options]
 scrollback_lines = 10001
-font             = PragmataPro for Powerline 12
+font             = Roboto Mono for Powerline 10
 clickable_url    = true
 browser          = chromium
 allow_bold       = true
