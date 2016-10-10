@@ -52,7 +52,9 @@ fi
 
 # Back up Transmission-KG library
 if ask "Backup Transmission-KG library?" Y; then
+  sudo chown -R matt:users /var/lib/transmission-kg
   sudo cp -R /var/lib/transmission-kg/.config/transmission-daemon/* $KG_DRV_LOCATION/transmission/
+  sudo chown -R transmission:transmission /var/lib/transmission-kg
 fi
 
 # Back up fstab config file
