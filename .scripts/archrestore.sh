@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+ #!/usr/bin/env bash
 
 set -e
 
@@ -36,7 +36,7 @@ fi
 # Restore Plex library
 if ask "Restore Plex library from backup?" Y; then
   sudo cp -R $KG_DRV_LOCATION/plex/* /var/lib/plex/
-  sudo chown -R plex:plex /var/lib/plex/*
+  sudo chown -R plex:plex /var/lib/plex
   sudo systemctl daemon-reload
   sudo systemctl restart plexmediaserver
 fi
@@ -44,12 +44,13 @@ fi
 # Restore Transmission library
 if ask "Restore Transmission library from backup?" Y; then
   sudo cp -R $BACKUP_DIR/transmission/* ~/.config/transmission
+  sudo chown -R matt:users ~/.config/transmission
 fi
 
 # Restore Transmission-KG library
 if ask "Restore Transmission-KG library from backup?" Y; then
   sudo cp -R /var/lib/transmission-kg/.config/transmission-daemon/* $KG_DRV_LOCATION/transmission/
-  sudo chown -R transmission:transmission /var/lib/transmission-kg/*
+  sudo chown -R transmission:transmission /var/lib/transmission-kg
   sudo systemctl daemon-reload
   sudo systemctl restart transmission-kg
 fi
@@ -72,5 +73,7 @@ fi
 
 # Back up UFW config
 if ask "Restore UFW config from backup?" Y; then
+  sudo cp $BACKUP_DIR/ufw/user.rules /etc/ufw/
+  sudo cp $BACKUP_DIR/ufw/user6.rules /etc/ufw/
   sudo cp $BACKUP_DIR/ufw/custom /etc/ufw/applications.d/
 fi
