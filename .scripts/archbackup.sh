@@ -36,7 +36,7 @@ fi
 # Back up LogMeIn Hamachi config
 if ask "Backup LogMeIn Hamachi?" Y; then
     mkdir -p $BACKUP_DIR/hamachi
-    sudo cp -R /var/lib/logmein-hamachi ~/.backup
+    sudo cp -R /var/lib/logmein-hamachi $BACKUP_DIR/hamachi
 fi
 
 # Back up Plex library
