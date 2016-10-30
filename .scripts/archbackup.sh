@@ -25,7 +25,7 @@ ask() {
   done
 }
 
-BACKUP_DIR=~/.backup
+BACKUP_DIR=/mnt/Computer/.backup
 KG_DRV_LOCATION=/mnt/KG
 
 if ask "Recreate backup directory?" Y; then
@@ -78,4 +78,6 @@ fi
 if ask "Backup UFW config?" Y; then
   mkdir -p $BACKUP_DIR/ufw
   sudo cp /etc/ufw/applications.d/custom $BACKUP_DIR/ufw
+  sudo cp /etc/ufw/user.rules $BACKUP_DIR/ufw
+  sudo cp /etc/ufw/user6.rules $BACKUP_DIR/ufw
 fi
