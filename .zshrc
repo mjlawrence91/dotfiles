@@ -6,7 +6,7 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
 fi
 
 if [[ "$TERM_PROGRAM" == "ghostty" ]]; then
-    export TERM=xterm-256color
+  export TERM=xterm-256color
 fi
 
 export LC_ALL=en_GB.UTF-8
@@ -46,6 +46,7 @@ zinit snippet OMZP::ssh
 # Add macOS-specific completions.
 zinit snippet OMZP::macos
 zinit snippet OMZP::brew
+zinit snippet OMZP::iterm2
 
 # Add Arch-specific completions.
 # zinit snippet OMZP::archlinux
@@ -97,6 +98,7 @@ fi
 # Add applications installed with Homebrew to PATH.
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
-# Add Node.js 22 and OpenJDK 17 to PATH.
+# Add Node.js 20 to PATH.
 export PATH="/opt/homebrew/opt/node@22/bin:$PATH"
 export PATH="/opt/homebrew/opt/openjdk@17/bin:$PATH"
+

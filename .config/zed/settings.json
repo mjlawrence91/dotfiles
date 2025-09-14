@@ -18,6 +18,7 @@
   "ui_font_size": 14,
   "buffer_font_size": 14,
   "buffer_font_family": "SFMono Nerd Font",
+  "wrap_guides": [80],
   "languages": {
     "JavaScript": {
       "code_actions_on_format": {
