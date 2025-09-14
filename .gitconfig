@@ -1,0 +1,21 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Matt Lawrence
+	email = mjlawrence91@gmail.com
+[core]
+	sshCommand = ssh -i ~/.ssh/id_mjl_github
+  editor = nvim
+  filemode = false
+  trustctime = false
+    autocrlf = input
+[init]
+	defaultBranch = main
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[includeIf "gitdir:~/Development/kg/"]
+	path = ~/Development/kg/.gitconfig
+[includeIf "gitdir:~/Development/mjlc/"]
+	path = ~/Development/mjlc/.gitconfig
