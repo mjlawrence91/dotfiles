@@ -1,6 +1,7 @@
 ### Mine ###
 .antigen
 .cache
+.config/tmux/plugins
 .local/share/zinit
 .suitecloud-sdk
 .swiftpm
