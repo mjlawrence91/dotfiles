@@ -53,6 +53,10 @@ alias nrb="npm run build"
 # SSH commands.
 alias arch="ssh mjl@mjl-arch -t tmux -u new-session -A -s mjl-arch"
 
+# Open Mac Studio (mjl-mba) tmux session.
+# Note: Uses absolute path to tmux because Homebrew doesn't add it to PATH.
+alias studio="ssh mjl@mjl-studio -t /opt/homebrew/bin/tmux -u new-session -A -s mjl-studio"
+
 # Aliases to common directories.
 alias drop="cd ~/Dropbox"
 alias dev="cd /Users/mjl/Development/$1"
