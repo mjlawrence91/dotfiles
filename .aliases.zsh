@@ -48,7 +48,7 @@ alias nrd="npm run dev"
 alias nrt="npm run test"
 alias nrwt="npm run watch:test"
 alias nrs="npm run start"
-
+alias nrb="npm run build"
 
 # SSH commands.
 alias arch="ssh mjl@mjl-arch -t tmux -u new-session -A -s mjl-arch"
