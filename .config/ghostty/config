@@ -53,3 +53,5 @@ cursor-style = block
 
 window-width = 150
 window-height = 40
+
+command = ~/.scripts/ghostty-tmux.sh
