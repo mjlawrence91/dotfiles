@@ -98,6 +98,9 @@ fi
 # Add applications installed with Homebrew to PATH.
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
+# Add tmux to PATH - because Homebrew doesn't put it there.
+export PATH="/opt/homebrew/bin:$PATH"
+
 # Add Node.js 20 to PATH.
 export PATH="/opt/homebrew/opt/node@22/bin:$PATH"
 export PATH="/opt/homebrew/opt/openjdk@17/bin:$PATH"
