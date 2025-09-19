@@ -42,7 +42,7 @@
 # # Just for example:
 # resize-overlay-duration = 4s 200ms
 
-theme = dark:GitHub-Dark-Default,light:GitHub-Light-Default
+theme = dark:GitHub Dark Default,light:GitHub Light Default
 background-opacity = 0.85
 background-blur = 10
 
