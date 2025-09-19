@@ -16,6 +16,8 @@ alias /="cd /"
 
 # Useful utils.
 alias nukedstore="find . -name '.DS_Store' -type f -delete | xargs du -chs"
+alias cpmv="~/.scripts/copymovies.sh"
+alias r="ranger"
 
 # Open current project in VS Code.
 alias co="code ."
