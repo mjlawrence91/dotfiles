@@ -55,3 +55,7 @@ window-width = 150
 window-height = 40
 
 command = ~/.scripts/ghostty-tmux.sh
+
+bell-features = no-attention, title
+
+shell-integration-features = ssh-env
