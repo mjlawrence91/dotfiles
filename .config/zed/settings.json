@@ -16,7 +16,7 @@
   "remove_trailing_whitespace_on_save": true,
   "tab_size": 2,
   "ui_font_size": 14,
-  "buffer_font_size": 14,
+  "buffer_font_size": 12.0,
   "buffer_font_family": "SFMono Nerd Font",
   "wrap_guides": [80],
   "languages": {
@@ -24,31 +24,19 @@
       "code_actions_on_format": {
         "source.fixAll.eslint": true
       },
-      "formatter": {
-        "code_actions": {
-          "source.fixAll.eslint": true
-        }
-      }
+      "formatter": []
     },
     "TypeScript": {
       "code_actions_on_format": {
         "source.fixAll.eslint": true
       },
-      "formatter": {
-        "code_actions": {
-          "source.fixAll.eslint": true
-        }
-      }
+      "formatter": []
     },
     "TSX": {
       "code_actions_on_format": {
         "source.fixAll.eslint": true
       },
-      "formatter": {
-        "code_actions": {
-          "source.fixAll.eslint": true
-        }
-      }
+      "formatter": []
     }
   },
 
