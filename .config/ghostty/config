@@ -58,4 +58,12 @@ command = ~/.scripts/ghostty-tmux.sh
 
 bell-features = no-attention, title
 
-shell-integration-features = ssh-env
+shell-integration = "zsh"
+shell-integration-features = "ssh-env,no-cursor"
+confirm-close-surface = false
+
+copy-on-select = false
+
+# macos-titlebar-style = hidden
+# macos-titlebar-proxy-icon = hidden
+
