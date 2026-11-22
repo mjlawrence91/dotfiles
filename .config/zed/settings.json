@@ -24,7 +24,11 @@
   "git_panel": {
     "dock": "left"
   },
-  "theme": "Flexoki Dark",
+  "theme": {
+    "mode": "system",
+    "light": "Flexoki Light",
+    "dark": "Flexoki Dark"
+  },
   "telemetry": {
     "metrics": false
   },
