@@ -81,8 +81,9 @@ setopt hist_find_no_dups
 # Completion styling.
 zstyle ':completion' matcher-list 'm:{a-z}={A-Za-z}' # Make completion case-insensitive.
 
-# Add my aliases.
+# Add my aliases and functions.
 source ~/.aliases.zsh
+source ~/.functions.zsh
 
 # Use nvim as default editor.
 export EDITOR=nvim
