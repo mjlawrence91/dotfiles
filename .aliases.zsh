@@ -62,6 +62,7 @@ alias studio="ssh mjl@mjl-studio -t /opt/homebrew/bin/tmux -u new-session -A -s 
 # Aliases to common directories.
 alias drop="cd ~/Dropbox"
 alias dev="cd /Users/mjl/Development/$1"
+alias kg="cd /Users/mjl/Development/kg/$1"
 alias dls="cd ~/Downloads"
 
 # Aliases to edit config files.
